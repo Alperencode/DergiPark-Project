@@ -1,0 +1,10 @@
+Makale Baþlýðý: Investigation of Protective Effects of Selenium as Antioxidant and Zeolite as Mineral on Mercury Toxicity in Oreochromis niloticus Using Glutathione-Related Enzyme Systems
+Özet: 
+Öz
+Mercury is one of the most toxic heavy metals on earth. Selenium is an element that is essential for living things and has antioxidant properties. Zeolite is a mineral commonly used in the removal of heavy metals in aquatic environments. In this study, it was aimed to determine the toxic effects of mercury on glutathione (GSH) and GSH-related enzyme systems and the possible protective effects of selenium and zeolite on this biochemical toxicity in tissues of Oreochromis niloticus. For this purpose fish were exposed to 0.01 and 0.1 mg/L mercury; 0.01 mg/L mercury+0.1 mg/L selenium, 0.1 mg/L mercury+1.0 mg/L selenium and 0.01 mg/L mercury+ 0.1 g/L zeolite, 0.1 mg/L mercury+1.0 g/L zeolite for 7 and 21 days and and GSH level and activities of glutathione peroxidase (GPx), glutathione-S-transferase (GST) and glutathione reductase (GR) in gill, liver and muscle tissues were determined. Significant alterations in GSH level and GSH-related enzymes activities in the exposure of Hg alone, Hg+Se, and Hg+zeolite mixtures were observed due to tissues, medium concentrations, and exposure period. In the gill and liver tissues, GSH level and GR activity reduced while GPx and GST activities increased. In the muscle, it was not observed a significant change in other parameters except for the GST. The effect of Hg alone on analyzed all parameters were higher than in combination with Se and zeolite and the order of their effects found Hg>Hg+zeolite>Hg+Se. Our research results show that selenium and zeolite have a protective effect on the toxicity caused by mercury in O. niloticus and that selenium has a slightly more protective effect than zeolite.
+
+Yazar isimleri: ['Özge FIRAT', 'Ferit KARGIN']
+Yayýn Yýlý: 1 Eylül 2021
+Dergi ismi: Acta Aquatica Turcica
+Yayýn sayfa url: https://dergipark.org.tr/tr/pub/actaquatr/issue/64543/802614
+Yayýn pdf linki: https://dergipark.org.tr/tr/download/article-file/1318646

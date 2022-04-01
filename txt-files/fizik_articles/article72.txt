@@ -1,0 +1,10 @@
+Makale Baþlýðý Lise Düzeyindeki Kýz Öðrencilerin Fiziksel Uygunluk Düzeylerinin ve Obezite Eðilimlerinin Ýncelenmesi
+
+Öz
+Obezite, küresel bir saðlýk sorunudur ve gençler de dahil olmak üzere tüm yaþ gruplarýný etkilemektedir. Lise düzeyi kýz öðrencilerin fiziksel uygunluk düzeyleri ile obezite eðilimlerinin deðerlendirilmesi amaçlanan bu çalýþma, Erzurum ilinde öðrenim görmekte olan 1069 katýlmcý ile gerçekleþtirilmiþtir. Çalýþma öncesinde etik kurul ve kurum izinleri ile, katýlýmcýlardan veya velilerinden, imzalanmýþ bilgilendirilmiþ gönüllü oluru alýnmýþtýr. Katýlýmcýlara antropometrik ölçümler ve EUROFIT testi uygulanmýþtýr. Analizler için IBM SPSS 22 istatistiksel analiz programý kullanýlmýþtýr. Verilerin normal daðýlýp daðýlmadýðý, deðiþim katsayýsý ile test edilmiþtir. Normal daðýlan verilerin analizi için ANOVA ve Tukey HSD post hoc testleri; normal daðýlýma uygun olmayan verilerde, Kruskal-Wallis H ve Mann-Whitney U testleri kullanýlmýþtýr. Deðiþkenler arasýndaki iliþkiler Pearson ve Spearman korelasyon testleri ile analiz edilmiþtir. Fiziksel uygunluk testlerinden elde edilen performanslar ve antropometrik ölçümler ile BKÝ arasýndaki iliþkinin incelenmesi için regresyon analizinden faydalanýlmýþtýr. Katýlýmcýlarýn fiziksel uygunluk düzeylerinin düþük, BKÝ deðerlerinin kabul edilir düzeyde ve obezite eðilimlerinin de düþük olduðu, BKÝ düzeylerinin fiziksel performanslarý etkilediði, BKÝ düzeyi arttýkça sürat, kuvvet, kassal dayanýklýlýk, denge ve aerobik uygunluk düzeylerinin negatif yönde etkilendiði sonucuna ulaþýlmýþtýr.
+
+Ýsimleri: ['Yetkin Utku KAMUK']
+Yayýn Yýlý: 1 Temmuz 2021
+Dergi ismi: Uluslararasý Spor Bilimleri Öðrenci Çalýþmalarý
+Yayýn sayfa url: https://dergipark.org.tr/tr/pub/i4s/issue/63060/884384
+Yayýn pdf linki: https://dergipark.org.tr/tr/download/article-file/1592614

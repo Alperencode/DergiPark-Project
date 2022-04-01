@@ -1,0 +1,13 @@
+Makale Baþlýðý: Antibiotic Resistance Rates of Pseudomonas Aeruginosa Strains Isolated from Clinical Samples
+Özet: 
+Öz
+Purpose: Pseudomonas aeruginosa species are common bacteria that cause nosocomial infections. In this study, we aimed to contribute to epidemiological data and empirical treatment options by determining the resistance rates of P. aeruginosa strains isolated from clinical samples sent to our laboratory.
+Materials and Methods: Conventional microbiological methods and Vitek 2 (bioMérieux, France) automated system were used for the identification and antibiogram processes of P. aeruginosa strains isolated from various clinical samples sent to our laboratory between November 2016 and August 2018.
+Results: Seventy-two (29 %) deep tracheal aspirate (DTA), 68 (27 %) urine, 50 (20 %) sputum, 24 (10 %) bronchoalveolar lavage (BAL), 22 (9 %) wounds and 14 (5 %) from other samples (abscess, blood culture, tissue culture, pleura, catheter), a total of 250 strains were examined. The antibiotic that has the lowest resistance was found to be amikacin. Ciprofloxasin(50 %) and ceftazidime(48 %) had the highest resistance. Ciprofloxacin, ceftazidime, piperacillin-tazobactam (TZP) and gentamicin resistance were found to be higher in the intensive care unit than  other clinics. It was found that the imipenem resistance rate in the samples from the polyclinics was very low (15 %) compared to the service and intensive care units.
+Conclusion: It was observed that the rate of resistance to antibiotics, which are frequently used in P. aeruginosa treatments in our hospital, has gradually increased over the years. It was observed that the resistance rate of cefepime, which had a high rate of resistance before, decreased. The high resistance rates we found in Pseudomonas strains show the importance of regulation of treatment according to antibiotic susceptibility tests.
+
+Yazar isimleri: ['Betül DÖNMEZ', 'Cihadiye ÖZTÜRK', 'Gözde KAHRAMAN', 'Banu KESKÝN', 'Eda KAYABAÞI']
+Yayýn Yýlý: 31 Aðustos 2021
+Dergi ismi: Abant Týp Dergisi
+Yayýn sayfa url: https://dergipark.org.tr/tr/pub/abantmedj/issue/64672/873180
+Yayýn pdf linki: https://dergipark.org.tr/tr/download/article-file/1551341

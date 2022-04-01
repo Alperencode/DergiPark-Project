@@ -1,0 +1,10 @@
+Makale Baþlýðý: Duygusal ve Kültürel Zekânýn Ýþ Tatmini ve Örgütsel Baðlýlýk Üzerindeki Etkisi: Sosyal Sermayenin Aracýlýk Rolü
+Özet: 
+Öz
+Bu ampirik çalýþmanýn temel amacý, öðretmenlerin duygusal ve kültürel zekâ düzeyinin iþ tatmini ve örgütsel baðlýlýða etkisini incelemek ve sosyal sermaye aracýlýðýyla bu etkinin farklýlýk gösterip göstermediðini ortaya koymaktýr. Araþtýrma bulgularý, 2018-2019 akademik yýlýnda Ýstanbul ilinde görevli olan öðretmenlerden alýnan bilgiler doðrultusunda elde edilmiþtir. Toplanan veriler, yapýsal eþitlik modellemesi kapsamýnda Smart PLS kullanýlarak test edilmiþtir. Önceki araþtýrmalarda desteklenmiþ olduðu görülmesine raðmen, bu araþtýrmada yer alan öðretmen örnekleminde duygusal ve kültürel zekânýn iþ tatmini üzerinde etkisi görülmemiþtir. Diðer yandan duygusal zekânýn duygularýn düzenlenmesi boyutu ve motivasyonel kültürel zekâ boyutunun duygusal baðlýlýk ve devam baðlýlýðý üzerinde anlamlý ve pozitif yönlü bir etkiye sahip olduðu görülmektedir. Sosyal sermaye, örgütsel baðlýlýk üzerinde doðrudan ve anlamlý bir etkiye sahiptir. Duygusal ile kültürel zekânýn örgütsel baðlýlýk üzerindeki etkisinde sosyal sermayenin herhangi bir aracýlýk etkisi belirlenmemiþtir.
+
+Yazar isimleri: ['Deniz ÇIPA', 'Mine AFACAN FINDIKLI', 'Erkut ALTINDAÐ']
+Yayýn Yýlý: 19 Ekim 2021
+Dergi ismi: Academia Eðitim Araþtýrmalarý Dergisi
+Yayýn sayfa url: https://dergipark.org.tr/tr/pub/egitim/issue/62242/977077
+Yayýn pdf linki: https://dergipark.org.tr/tr/download/article-file/1902200

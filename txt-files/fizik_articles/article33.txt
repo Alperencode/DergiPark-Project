@@ -1,0 +1,10 @@
+Makale Baþlýðý Termal ýsýnma-soðuma döngülerine maruz býrakýlan mermerlerde soðuma þeklinin fiziksel ve mekanik özellikler üzerindeki etkisinin araþtýrýlmasý
+
+Öz
+Doðal taþlarýn kullaným alanlarý belirlenirken yalnýz fiziksel ve mekanik özelliklerine deðil ayný zamanda maruz kalacaðý ortamýn da dikkate alýnmasý gerekmektedir. Özellikle, ani hava deðiþimi yaþanan bölgelerde doðal taþlarýn parçalanmasý ve ayrýþma mekanizmalarýný anlamak için termal deðiþikliklerin etkisinin araþtýrýlmasý gerekmektedir. Bu çalýþmada, ani ve yavaþ geliþen ýsý deðiþimlerinin Elazýð Viþne ve Petrol Yeþili mermerlerine ait fiziko-mekanik özelliklerinde meydana gelen deðiþimler araþtýrýlmýþtýr. Öncelikle üç test grubu oluþturulmuþ ve bunlardan birincisi doðal, ikincisi havada yavaþ soðuma sonuncusuna ise ani soðuma çevrimlerine tabi býrakýlmýþtýr. Bu amaçla, termal döngülere (ani ve yavaþ soðuma) maruz kalan mermerlerin aðýrlýk kaybý, aðýrlýkça-hacimce su emme ve nokta yükleme dayaným deðerlerinde meydana gelen deðiþimler belirlendi. Elde edilen bulgular deðerlendirildiðinde, her iki mermer için, ani soðumanýn yavaþ soðumaya nazaran daha fazla tahrip ettiði tespit edildi. Fakat termal döngüler sonrasýnda Hazar petrol yeþili mermerindeki dayaným kaybý Elazýð viþneye nazaran daha olduðu tespit edildi. Benzer olarak, Hazar petrol yeþili mermerindeki porozite ve su emme artýþý Elazýð viþne mermerinden daha fazladýr.
+
+Ýsimleri: ['Engin ÖZDEMÝR']
+Yayýn Yýlý: 15 Ekim 2021
+Dergi ismi: Gümüþhane Üniversitesi Fen Bilimleri Dergisi
+Yayýn sayfa url: https://dergipark.org.tr/tr/pub/gumusfenbil/issue/64757/936065
+Yayýn pdf linki: https://dergipark.org.tr/tr/download/article-file/1763762

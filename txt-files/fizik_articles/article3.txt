@@ -1,0 +1,10 @@
+Makale Baþlýðý Electromagnetic-Temperature Analysis of Amorphous Core Transformer by Multiple Physics Method
+
+Öz
+To investigate the thermal analysis of the amorphous core transformer in detail, a multidisciplinary approach including heat transfer, fluid flow and electromagnet analysis has been used in this study.  Thermal and fluid flow analysis have been combined with an electromagnetic model to study specific power losses in the coil and core. The proposed methodology is able to predict thermal distribution in detail in specific transformers such as amorphous core transformers, without requiring prior knowledge of nodal temperature or temperature gradient values. The results of the numerical study were confirmed by experimental results performed on a Dyn11, 34.5/0.4-kV, 630-kVA, transformer with amorphous core through thermal tests carried out according to the International Standards for oil immersed transformers. Comparison of theoretical and experimental results obtained in the study are in a good agreement and it will provide a useful tool for young engineers in thermal analyzing the power transformers.
+
+Ýsimleri: ['Atabak NAJAFI']
+Yayýn Yýlý: 31 Ekim 2021
+Dergi ismi: Afyon Kocatepe Üniversitesi Fen Ve Mühendislik Bilimleri Dergisi
+Yayýn sayfa url: https://dergipark.org.tr/tr/pub/akufemubid/issue/65740/836620
+Yayýn pdf linki: https://dergipark.org.tr/tr/download/article-file/1433731

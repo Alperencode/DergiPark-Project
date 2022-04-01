@@ -1,0 +1,10 @@
+Makale Baþlýðý: FEN BÝLÝMLERÝ DERSÝNDE TABLET VE BÝLGÝSAYAR KULLANIMININ ÖÐRENCÝ BAÞARISI ÝLE ÝLÝÞKÝSÝ: BÝR TIMSS ÇALIÞMASI
+Özet: 
+Öz
+Bu çalýþmanýn amacý, fen bilimleri derslerinde öðretim amacýyla öðrencilerin tablet ya da bilgisayar kullanma durumu ile öðrencilerin fen baþarýsý arasýndaki iliþkiyi belirlemektir. Öðrencilerin öðrenme amaçlý tablet ve bilgisayar kullaným sýklýðý ile öðrenci baþarýsý arasýndaki iliþkiyi araþtýran bu çalýþmada nicel araþtýrma yöntemlerinden iliþkisel tarama metodu kullanýlmýþtýr. Bu araþtýrmanýn çalýþma grubunu TIMSS 2019 sýnavýna 8. sýnýf düzeyinde katýlan ülkelerden seçilmiþ üç farklý ülkenin öðrencileri oluþturmaktadýr. TIMSS 2019 sýnavýna 8. sýnýf düzeyinde 39 ülke katýlmýþtýr. Bu 39 ülke içinden üç ülke iki aþamada seçilerek bu çalýþmaya dâhil edilmiþtir. Bunlar yüksek seviyeden Singapur, orta seviyeden Türkiye ve düþük seviyeden Gürcistan olarak belirlenmiþtir. Araþtýrmanýn verileri ise herkese açýk olan TIMSS 2019 veri tabaný kullanýlarak öðrenci ölçeðinden ve öðrencilerin fen bilimleri sýnav sonuçlarýndan elde edilmiþtir. Bu çalýþmada öðrencilere uygulanan ölçekteki “Öðrenme amaçlý olarak ne sýklýkla bir bilgisayar ya da tablet kullanýyorsunuz?” sorusuna verilen cevaplar incelenmiþtir. Bu araþtýrmanýn veri analizinde nicel araþtýrma yöntemlerinde sýklýkla kullanýlan çoklu doðrusal regresyon analiz tekniði kullanýlmýþtýr. Elde edilen bulgular incelendiðinde araþtýrmaya dâhil edilen üç ülkede de öðrencilerin öðrenme amaçlý tablet ve bilgisayar kullaným sýklýðý arttýkça baþarýlarýnýn anlamlý bir þekilde azaldýðý görülmüþtür.
+
+Yazar isimleri: ['Murat GENÇ', 'Ufuk GÜVEN', 'Seda SÖÐÜT']
+Yayýn Yýlý: 15 Eylül 2021
+Dergi ismi: Abant Ýzzet Baysal Üniversitesi Eðitim Fakültesi Dergisi
+Yayýn sayfa url: https://dergipark.org.tr/tr/pub/aibuefd/issue/64908/936494
+Yayýn pdf linki: https://dergipark.org.tr/tr/download/article-file/1765407

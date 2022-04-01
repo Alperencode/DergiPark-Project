@@ -1,0 +1,10 @@
+Makale Baþlýðý Orta öðretim Fizik, Kimya, Biyoloji Dersi Öðretim Programlarýnýn Bilimsel Okuryazarlýk Boyutlarý Açýsýndan Ýncelenmesi
+
+Öz
+Bu araþtýrmada, MEB ortaöðretim 9, 10, 11 ve 12. sýnýf fizik, kimya ve biyoloji dersi öðretim programlarý bilimsel okuryazarlýk boyutlarý açýsýndan incelenerek bu boyutlara öðretim programlarýnda ne oranda yer verildiðini belirlemek amaçlanmýþtýr. Nitel araþtýrma yaklaþýmýnýn benimsendiði bu çalýþmada, doküman analizi metodu kullanýlmýþtýr. Fizik dersi öðretim programýnýn tüm kademelerinden elde edilen bilimsel okuryazarlýk boyutlarýný bulundurma oranlarý, ortalama olarak kýyaslandýðýnda; bilgi birikimi olarak bilim boyutuna %46, bilimin araþtýrma doðasý boyutuna %44, düþünmenin bir yolu olarak bilim boyutu ile bilim-teknoloji-toplum etkileþimi boyutuna %5 oranýnda yer verilmiþtir. Kimya dersi öðretim programýnda tüm kademelerden elde edilen sonuçlarýn ortalama deðerleri; bilgi birikimi olarak bilim %56, bilimin araþtýrma doðasý %31, düþünmenin bir yolu olarak bilim %3 ve bilim-teknoloji-toplum etkileþimi boyutu ise %10 olarak tespit edilmiþtir. Biyoloji dersi öðretim programýnda ise tüm sýnýf düzeylerinden elde edilen oranlarýn ortalama deðerleri; bilgi birikimi olarak bilim %53, bilimin araþtýrma doðasý %29, düþünmenin bir yolu olarak bilim %8 ve bilim-teknoloji-toplum etkileþimi boyutu %9 olarak belirlenmiþtir. Bu bulgular ýþýðýnda öðretim programlarýnda bilgi birikimi olarak bilim boyutu daha fazla yer tutarken düþünmenin bir yolu olarak bilim ve bilim-teknoloji-toplum etkileþimi boyutlarýnýn yetersiz kaldýðý görülmüþ olup daðýlýmýn dengeli olmadýðý sonucuna varýlmýþtýr.
+
+Ýsimleri: ['Esengül KANTEKÝN', 'Serhat ÝREZ']
+Yayýn Yýlý: 26 Temmuz 2021
+Dergi ismi: Akdeniz Üniversitesi Eðitim Fakültesi Dergisi
+Yayýn sayfa url: https://dergipark.org.tr/tr/pub/akuned/issue/64258/846793
+Yayýn pdf linki: https://dergipark.org.tr/tr/download/article-file/1467977

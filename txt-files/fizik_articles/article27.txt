@@ -1,0 +1,10 @@
+Makale Baþlýðý COVID-19’a Yakalanma Kaygýsý Ýle Fiziksel Aktiviteye Katýlým Motivasyonu Arasýndaki Ýliþkinin Ýncelenmesi
+
+Öz
+Tüm dünyayý kýsa sürede etkisi altýna alan COVID-19 salgýný insanlarýn yaþam tarzlarýnda birçok deðiþikliðe neden olmuþtur. Bu süreçte immün sistemin geliþtirilmesi ve psikolojik iyi oluþun saðlanmasýnda fiziksel aktivitenin büyük bir önemi olmasýna karþýn, fiziksel aktiviteye katýlým esnasýnda bu hastalýða yakalanma kaygýsý insanlarý tedirgin etmiþtir. Bu düþünce ile yapýlan çalýþmada COVID-19’a yakalanma kaygýsý ile fiziksel aktiviteye katýlým motivasyonlarý arasýndaki iliþkinin incelenmesi amaçlanmýþtýr. Çalýþmaya farklý branþlardan 250 sporcu (kadýn = 142, erkek = 108) gönüllü olarak katýlmýþtýr. Katýlýmcýlara ‘’sporcularýn yeni tip koronavirüse (COVID-19) yakalanma kaygýsý ölçeði’’ ile, ‘’fiziksel aktiviteye katýlým motivasyon ölçeði uygulanmýþtýr. Fiziksel aktiviteye katýlým motivasyon kategorilendirilmesine göre katýlýmcýlarýn COVID-19’a yakalanma kaygýlarý arasýndaki farký belirlemede One-Way Anova testi, bu ölçekler arasýndaki iliþkiyi belirlemede Pearson Korelasyon analizi kullanýlmýþtýr. Çalýþma sonucunda, fiziksel aktiviteye katýlým motivasyonu arttýkça, COVID-19’a yakalanma kaygýsýnýn da arttýðý belirlenmiþtir.
+
+Ýsimleri: ['Gönül YAVUZ', 'Zeynep KUTLU', 'Necdet Eray PÝÞKÝN', 'Serkan ÝBÝÞ', 'Hasan AKA', 'Zait Burak AKTUÐ']
+Yayýn Yýlý: 20 Eylül 2021
+Dergi ismi: Gaziantep Üniversitesi Spor Bilimleri Dergisi
+Yayýn sayfa url: https://dergipark.org.tr/tr/pub/gaunjss/issue/64455/946308
+Yayýn pdf linki: https://dergipark.org.tr/tr/download/article-file/1800515

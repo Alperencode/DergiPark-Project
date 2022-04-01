@@ -1,0 +1,10 @@
+Makale Baþlýðý Migrenli Bireylerin Klinik Özellikleri ve Fiziksel Aktivite Ýliþkisi
+
+Öz
+Amaç: Migrenli bireylerin klinik özelliklerini belirlemek ve bu özellikler ile fiziksel aktivite arasýndaki iliþkiyi saptamaktý.Yöntem: Çalýþmaya 310 migrenli birey dahil edildi. Migrenin aðrý karakteristiði ve klinik semptomlarý sorgulandý. Fiziksel aktivite seviyesi, migrene baðlý özür durumu ve yaþam kalitesi sýrasýyla Uluslararasý Fiziksel Aktivite Anketi kýsa form ile, Migren Özür Deðerlendirme Skalasý ile ve Baþ Aðrýsý Etki Ölçeði ile deðerlendirildi.Bulgular: Bireylerin son bir aydaki ortalama aðrý þiddeti, atak sayýsý ve süresi sýrasýyla 8 (4-10), 4 (1-30) ve 120 (50-4320) dk olarak bulundu. Bireylerin %89.7 sinin (n=278) aura yaþadýðý saptandý. Bireylerin atak sýrasýnda en çok fotofobi (%91.3; n=283) ve fonofobi (%95.2; n=295) þikayeti olduðu belirlendi. Migren Özür Deðerlendirme Skalasý ve Baþ Aðrýsý Etki Ölçeði skorlarý sýrasýyla 24.0 (1.0-180.0) ve 66.0 (38.0-78.0) idi. Bireylerde fiziksel aktivite düzeyi ile aðrý þiddeti (rho=-0.022; p=0.730), atak sayýsý (rho=0.070; p=0.221) ve süresi (rho=-0.057; p=0.318), migrene baðlý özür durumu (rho=0.005; p=0.932) ve yaþam kalitesi (rho=-0.021; p=0.714) arasýnda bir iliþki yoktu.Sonuç: Bireylerin migren ataklarý sýrasýnda þiddetli aðrý ve aura yaþadýðý, migrenle iliþkili en çok ciddi özür durumu olduðu ve yaþam kalitesinde en çok þiddetli etkilenimi olduðu bulundu. Bireylerin büyük çoðunluðunun fiziksel olarak aktif olmadýðý tespit edildi. Fakat fiziksel aktivite düzeyi ile aðrý karakteristiði, özür durumu ve yaþam kalitesi arasýnda bir iliþki görülmedi.  
+
+Ýsimleri: ['Hafize ALTAY', 'Þeyda TOPRAK ÇELENAY']
+Yayýn Yýlý: 30 Eylül 2021
+Dergi ismi: Adnan Menderes Üniversitesi Saðlýk Bilimleri Fakültesi Dergisi
+Yayýn sayfa url: https://dergipark.org.tr/tr/pub/amusbfd/issue/65164/928039
+Yayýn pdf linki: https://dergipark.org.tr/tr/download/article-file/1733908

@@ -1,0 +1,10 @@
+Makale Baþlýðý Pirina’nýn Bitümün Fiziksel ve Mikroyapýsal Özellikleri Üzerindeki Etkisi
+
+Öz
+Bu çalýþmada, biyokütlesel bir atýk olan pirina’nýn bitümün fiziksel ve mikroyapýsal özellikleri üzerindeki etkisi araþtýrýlmýþtýr. Bu amaçla, B 160/220 penetrasyon sýnýfý saf bitüme, aðýrlýkça %5, %10, %15 ve %20 oranlarýnda pirina ilave edilerek modifiye bitümler elde edilmiþtir. Saf ve modifiye bitümlerin fiziksel özellikleri penetrasyon, yumuþama noktasý ve düktilite testleri ile belirlenerek sýcaklýk hassasiyetleri de tespit edilmiþtir. Baðlayýcýlarýn yaþlanma eðilimi veya yüksek sýcaklýk ve oksidasyona karþý direnci ise dönel ince film etüvü deneyi (RTFOT) ile belirlenmiþtir. Ayrýca, pirina’nýn bitümün yapýsýnda meydana getirmiþ olduðu mikroyapýsal deðiþimler ise taramalý elektron mikroskobu (SEM) ve X-ýþýný kýrýnýmý (XRD) analizleri ile belirlenmiþtir. Elde edilen sonuçlara göre, pirina ilavesiyle baðlayýcýlarýn %15 oranýna kadar sertleþme eðiliminin arttýðý, daha sonra azaldýðý, ayrýca pirina katkýsýyla baðlayýcýlarýn bitüm sýnýfýnýn deðiþtiði görülmüþtür. Ayrýca, pirina katkýsýyla baðlayýcýlarýn sýcaklýk hassasiyetlerinin düþtüðü ve dolayýsýyla yüksek sýcaklýða sahip bölgelerde kalýcý deformasyonlara karþý kullanýlabileceði tespit edilmiþtir. RTFOT sonuçlarýna göre, pirina katkýsýnýn baðlayýcýlarýn yüksek sýcaklýk ve oksidasyona karþý direncini arttýrdýðý belirlenmiþtir. SEM ve XRD kimyasal analiz sonuçlarýna göre ise, pirinanýn bitüm içerisinde homojen olarak daðýldýðý ve karýþýmý tek fazlý bir yapý haline getirdiði görülmüþtür.
+
+Ýsimleri: ['Tacettin GEÇKÝL', 'Ceren Beyza ÝNCE']
+Yayýn Yýlý: 15 Eylül 2021
+Dergi ismi: Dokuz Eylül Üniversitesi Mühendislik Fakültesi Fen ve Mühendislik Dergisi
+Yayýn sayfa url: https://dergipark.org.tr/tr/pub/deumffmd/issue/64734/855758
+Yayýn pdf linki: https://dergipark.org.tr/tr/download/article-file/1494205

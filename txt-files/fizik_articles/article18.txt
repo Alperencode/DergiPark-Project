@@ -1,0 +1,10 @@
+Makale Baþlýðý Eþ Seçiminde Aranan Özelliklerden Güven, Fiziksel Çekicilik ve Sosyal Statünün Yordayýcýsý Olarak Evlilik Ýnançlarý
+
+Öz
+Bu çalýþmanýn amacý beliren yetiþkinlerin eþ adaylarýnda önem verdikleri güven, fiziksel çekicilik ve sosyal statüyle evliliðe verilen önem ve evliliðin zamanlamasýna yönelik inançlar arasýndaki iliþkinin incelenmesidir. Araþtýrmanýn çalýþma grubunu 609 (435 kadýn, 174 erkek) bekâr beliren yetiþkin oluþturmuþtur. Verilerin analizinde hiyerarþik regresyon analizi tekniði kullanýlmýþtýr. Çalýþmanýn bulgularýna göre evliliðin önemine ve evliliðin zamanlamasýna iliþkin inançlar güvenin anlamlý bir yordayýcýsý deðildir. Evliliðin önemine iliþkin inanç fiziksel çekicilik ve sosyal statünün pozitif yönlü anlamlý bir yordayýcýsý olduðu evliliðin zamanlamasýna iliþkin inancýn ise fiziksel çekicilik ve sosyal statünün anlamlý bir yordayýcýsý olmadýðý belirlenmiþtir. Bu sonuçlara göre beliren yetiþkinlerin evliliðin önemine iliþkin daha fazla inanca sahip olmasý eþ seçiminde fiziksel çekicilik ve sosyal statüye daha fazla önem vermeleriyle iliþkilidir.
+
+Ýsimleri: ['Gökay KELDAL', 'Cemal KARADAÞ']
+Yayýn Yýlý: 30 Eylül 2021
+Dergi ismi: Dokuz Eylül Üniversitesi Sosyal Bilimler Enstitüsü Dergisi
+Yayýn sayfa url: https://dergipark.org.tr/tr/pub/deusosbil/issue/65198/932453
+Yayýn pdf linki: https://dergipark.org.tr/tr/download/article-file/1749971

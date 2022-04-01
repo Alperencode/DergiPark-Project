@@ -1,0 +1,10 @@
+Makale Baþlýðý Pomza ve Diatomitin Yüzey Özelliklerinin Portland Çimentosunun Fiziksel ve Mekanik Özelliklerine Etkisi
+
+Öz
+Puzolanik malzemelerin çimento ile arasýndaki etkileþim mekanizmasýnýn anlaþýlabilmesi açýsýndan, malzemelerin zeta potansiyel ile belirlenen yüzey yüklerinin bilinmesi oldukça önemlidir. Bu amaçla yapýlan çalýþmada, Portland çimento, pomza ve diatomitin fiziksel ve kimyasal özellikleri ile zeta potansiyelleri belirlenmiþtir. Daha sonra referans ve %5+5 ve %10+10 pomza ve diatomit ikameli çimentolarýn su ihtiyacý, priz süresi, hacim genleþme ve basýnç dayanýmý deðerleri elde edilmiþtir. Bu deðerlere göre, hammaddelerin yüzey yükleri, kimyasal ve fiziksel yapýsýna göre su ihtiyacý, hacim genleþme deðerleri, priz süreleri ve basýnç dayanýmlarýnda farklýlýklar meydana geldiðini göstermiþtir. Ayrýca Portland çimentosu, pomza ve diatomitin negatif zeta potansiyel deðerine sahip olduðu belirlenmiþtir.
+
+Ýsimleri: ['Ýbrahim PINARCI', 'Yýlmaz KOÇAK']
+Yayýn Yýlý: 30 Eylül 2021
+Dergi ismi: El-Cezeri
+Yayýn sayfa url: https://dergipark.org.tr/tr/pub/ecjse/issue/65010/931871
+Yayýn pdf linki: https://dergipark.org.tr/tr/download/article-file/1747854

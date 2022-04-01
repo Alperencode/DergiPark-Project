@@ -1,0 +1,10 @@
+Makale Baþlýðý The effect of heat treatment in vacuum atmosphere on some physical properties of poplar wood
+
+Öz
+Some different modification methods are applied to improve the unwanted properties of wood. In recent years, heat treatment application, which is one of these modification methods, has been applied more than others. Some different heat treatment methods are used in industrial applications. In these methods, factors such as heat transfer media, processing time, and process temperature differ. In this study, the effect of heat treatment at different vacuum levels on some physical properties of poplar wood was investigated in the heat treatment method applied by the convection method in a vacuum environment. The tests were carried out in a vacuum oven at 210ºC and under 0, 200, 400, 600 mbar vacuum for 3 hours. Physical properties of the test specimens such as oven-dry density, equilibrium moisture content, tangential swelling, radial swelling, longitudinal swelling, and volumetric swelling percentage were determined. The obtained data were analyzed comparatively with respect to the control group. Whether there was a statistical difference between the groups was determined by the ANOVA test. Groups differing from each other were determined by the Duncan test. According to the data obtained; a statistically significant difference was found between the swelling percentages of the groups. 
+
+Ýsimleri: ['Bekir Cihad BAL', 'Murat KILAVUZ']
+Yayýn Yýlý: 28 Haziran 2021
+Dergi ismi: Mobilya ve Ahþap Malzeme Araþtýrmalarý Dergisi
+Yayýn sayfa url: https://dergipark.org.tr/tr/pub/mamad/issue/62317/926939
+Yayýn pdf linki: https://dergipark.org.tr/tr/download/article-file/1730134

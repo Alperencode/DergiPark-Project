@@ -1,0 +1,34 @@
+Makale Baþlýðý Yüksek Sýcaklýklara Maruz Kalan Kalkarenitlerin Fiziksel ve Dayaným Özelliklerindeki Deðiþimin Araþtýrýlmasý
+
+Öz
+Bu çalýþmada Kuzey Kýbrýs Türk Cumhuriyeti’nde yapý taþý olarak yaygýn þekilde kullanýlan kalkarenitlerin 
+200-1000o
+C arasýndaki yüksek sýcaklýklara tabi tutulduktan sonraki indeks ve dayaným özelliklerindeki deðiþimler 
+incelenmiþ, elektron mikroskop görüntülerinden yararlanarak yüksek sýcaklýklarýn mikro yapý üzerindeki etkisi 
+araþtýrýlmýþtýr. Gerçek bir yangýnýn temsil edilmesi amacýyla örnekler Eurocode tarafýndan önerilen sýcaklýk-zaman 
+eðrilerine ait deðerler kullanýlarak ýsýtýlmýþ, hedeflenen sýcaklýkta 2 saat bekletildikten sonra oda sýcaklýðýnda 
+soðumaya býrakýlmýþtýr. Yapýlan deneysel çalýþmalar sonrasýnda ilk 600o
+C’ye kadar yoðunluk ve aðýrlýk kaybý 
+deðerlerinde belirgin bir deðiþim olmadýðý görülmüþtür. 600o
+C’den sonra yoðunlukta ani bir azalma kaydedilmiþ, 
+1000o
+C sýcaklýklarda mikro-kýrýklara baðlý olarak yoðunluk 1’in altýna düþmüþtür. Ayný þekilde aðýrlýk kaybý deðeri 
+kalsitlerde görülen kalsinasyon sürecine baðlý olarak %41’e ulaþmýþtýr. P-dalga hýzý ve çekme dayanýmý deðerleri 
+sýcaklýða baðlý olarak sürekli azalmýþtýr. Ancak bu azalma 600o
+C’den sonra daha belirgin olurken 800o
+C’den sonra 
+en belirgin düzeye ulaþmýþtýr. SEM görüntülerinde yapýlan incelemelerde de özellikle 600o
+C’den sonra geliþen 
+topaklaþmaya baðlý olarak süreksizlik oluþumu gözlenmiþtir. Bu durum dayanýmdaki azalmanýn asýl nedeni olarak 
+görülmektedir. Eurocode tarafýndan uygulanan deneysel çalýþmalarda bina dýþýnda meydana gelecek bir yangýnýn 
+sýcaklýðýnýn 680o
+C’yi geçmeyeceði, iç mekânda meydana gelecek bir yangýnda ise sýcaklýðýn 1000o
+C’yi aþabileceði 
+belirtilmektedir. Bu nedenle çalýþma konusu kalkarenitlerin yapýlarda sadece dýþ kaplama olarak kullanýlmasý 
+önerilmektedir.
+
+Ýsimleri: ['Hakan ERSOY']
+Yayýn Yýlý: 18 Haziran 2021
+Dergi ismi: Jeoloji Mühendisliði Dergisi
+Yayýn sayfa url: https://dergipark.org.tr/tr/pub/jmd/issue/62300/935833
+Yayýn pdf linki: https://dergipark.org.tr/tr/download/article-file/1762881

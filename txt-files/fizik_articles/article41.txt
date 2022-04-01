@@ -1,0 +1,14 @@
+Makale Baþlýðý Fiziksel Engelli Çocuklarýn Fonksiyonel Baðýmsýzlýk ve Kaba Motor Fonksiyon Düzeyleri ile Ebeveynlerinin Psikolojik Durumlarý Arasýndaki Ýliþkinin Ýncelenmesi
+
+Öz
+Amaç: Bu çalýþma; fiziksel engelli çocuklarýn fonksiyonel baðýmsýzlýk ve kaba motor fonksiyon düzeyleri ile ebeveynlerinin psikolojik durumlarý arasýndaki iliþkiyi incelemek amacýyla gerçekleþtirildi.
+Gereç ve Yöntem: Bu çalýþmaya, özel eðitim ve rehabilitasyon hizmeti alan 83 fiziksel engelli çocuk ve çocuðu ile bu çalýþmaya katýlmaya gönüllü olan ebeveynler dâhil edildi. Fiziksel engelli çocuklarýn fonksiyonel baðýmsýzlýk düzeyleri, Pediatrik Fonksiyonel Baðýmsýzlýk Ölçümü ile; kaba motor fonksiyon düzeyleri, Kaba Motor Fonksiyonel Sýnýflandýrma Sistemi ile; ebeveynlerin anksiyete ve depresyon düzeyleri ise Beck Anksiyete Ölçeði ve Beck Depresyon Ölçeði ile deðerlendirildi.
+Bulgular: Fiziksel engelli çocuklarýn Pediatrik Fonksiyonel Baðýmsýzlýk Ölçümü, Kaba Motor Fonksiyonel Sýnýflandýrma Sistemi puanlarý ve ebeveynlerin yaþý ile ebeveynlerin Beck Anksiyete Ölçeði ve Beck Depresyon Ölçeði puanlarý arasýnda anlamlý bir korelasyon bulunmadý (sýrasýyla; r=0,029, p=0,795; r=0,108, p=0,332; r=-0,014, p=0,896; r=-0,091,
+p=0,411, r=-0,017, p=0,880; r=0,010, p=0,926). Bununla birlikte, çocuklarýn engellilik yaþý ile ebeveynlerin Beck Anksiyete Ölçeði puanlarý arasýnda pozitif yönde düþük bir korelasyon bulundu (r=0,297, p=0,006). Ayrýca, destekli ya da desteksiz bir þekilde yürüyebilen ve yürüyemeyen çocuklarýn ebeveynlerinin anksiyete ve depresyon düzeyleri arasýnda istatistiksel olarak anlamlý bir fark bulundu (sýrasýyla, p=0,021, p=0,032).
+Sonuç: Fiziksel engelli bir çocuða sahip ebeveynlerin, çocuðun engel yaþýnýn artmasý ile anksiyete düzeylerinin arttýðý sonucuna ulaþýldý. Ayrýca, yürüyemeyen çocuða sahip olan ebeveynlerin, yürüyebilen çocuða sahip olan ebeveynlere göre anksiyete ve depresyon düzeylerinin daha yüksek olduðu görüldü.
+
+Ýsimleri: ['Erhan SEÇER', 'Onur KÖRTELLÝ', 'Tuðçe Þirin KORUCU', 'Derya ÖZER KAYA']
+Yayýn Yýlý: 30 Eylül 2021
+Dergi ismi: Ýzmir Katip Çelebi Üniversitesi Saðlýk Bilimleri Fakültesi Dergisi
+Yayýn sayfa url: https://dergipark.org.tr/tr/pub/ikcusbfd/issue/65176/937434
+Yayýn pdf linki: https://dergipark.org.tr/tr/download/article-file/1769007

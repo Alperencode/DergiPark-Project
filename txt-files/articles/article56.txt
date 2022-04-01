@@ -1,0 +1,10 @@
+Makale Baþlýðý: Olasý COVID-19 Enfeksiyonu ve Hastane Öncesi Alanda Resüsitasyon Uygulamalarý
+Özet: 
+Öz
+Çin Halk Cumhuriyeti’nin Wuhan kentinden dünyaya yayýlan ve birçok can kaybýna neden olan hastalýk SARS-CoV2 Enfeksiyonu (COVID-19) olarak tanýmlanmýþtýr. SARS-CoV2 Enfeksiyonu oldukça hýzlý yayýlým göstererek kýsa sürede tüm dünyayý etkisi altýna almýþtýr. Enfeksiyonun yayýlma ve bulaþma hýzý bugüne kadar rastlanan diðer viral enfeksiyonlara göre oldukça hýzlýdýr. Hastalarýn klinik bir merkeze ulaþýncaya kadar ilk baþvuru yaptýklarý yerlerden birisi 112 acil saðlýk hizmetleridir. 112 acil saðlýk hizmetleri çalýþanlarý direkt temas noktasýný oluþturmakta ve ciddi risk altýnda bulunmaktadýrlar. Planlanan çalýþmanýn temel amacý tüm dünyayý etkileyen salgýn hakkýnda kýsaca bilgi vermek ve hastane öncesi alanda gerçekleþtirilecek resüsitasyon çalýþmalarýna ýþýk tutmaktýr.
+
+Yazar isimleri: ['Galip USTA', 'Ezgi ATALAY', 'Asuman ÞENER']
+Yayýn Yýlý: 31 Aðustos 2021
+Dergi ismi: Abant Týp Dergisi
+Yayýn sayfa url: https://dergipark.org.tr/tr/pub/abantmedj/issue/64672/728115
+Yayýn pdf linki: https://dergipark.org.tr/tr/download/article-file/1074715

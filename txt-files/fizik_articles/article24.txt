@@ -1,0 +1,10 @@
+Makale Baþlýðý Manyetik Aktif Karbon ile Modifiye Edilmiþ Bitümün Fiziksel ve Reolojik Özelliklerinin Ýncelenmesi
+
+Öz
+Bu çalýþmada, manyetik aktif karbon (MAK) ile modifiye edilmiþ saf bitümlü baðlayýcýnýn fiziksel ve reolojik özelliklerindeki deðiþimler araþtýrýlmýþtýr. Çalýþma kapsamýnda B 160/220 penetrasyon sýnýfýna sahip bitümlü baðlayýcýya %5,%10,%15 ve %20 oranlarýnda MAK ilave edilerek modifiye bitümler elde edilmiþtir. Saf ve modifiye bitümlere geleneksel baðlayýcý deneyleri, dinamik kayma reometresi (DSR), dönel viskozimetre (RV) ve dönel ince film halinde yaþlandýrma (RTFOT) deneyleri uygulanmýþtýr. DSR deneyi, yükleme hýzlarý ve deney sýcaklýklarý deðiþtirilerek gerçekleþtirilmiþ ve bitümlü baðlayýcýlarýn farklý þartlar altýnda kompleks kayma modülü (G*) deðerleri ve faz açýlarýndaki deðiþimler incelenerek tekerlek izi oluþumuna karþý dayanýmlarý deðerlendirilmiþtir. Test sonuçlarýna göre katký oranýnýn artmasý ile birlikte modifiye bitümlerin penetrasyon deðerlerinin azaldýðý, yumuþama noktasý deðerlerinin arttýðý, reolojik özelliklerin iyileþtiði ve buna baðlý olarak yüksek sýcaklýk performansýnýn geliþtiði tespit edilmiþtir.
+
+Ýsimleri: ['Bahadýr YILMAZ']
+Yayýn Yýlý: 15 Eylül 2021
+Dergi ismi: Fýrat Üniversitesi Mühendislik Bilimleri Dergisi
+Yayýn sayfa url: https://dergipark.org.tr/tr/pub/fumbd/issue/64914/865600
+Yayýn pdf linki: https://dergipark.org.tr/tr/download/article-file/1523744

@@ -1,0 +1,13 @@
+Makale Baþlýðý Investigation of the Effect of Vitamin D Deficiency on Physical Symptoms in Fibromyalgia Patients: Systematic Review
+
+Öz
+Aim: Our aim is to investigate the studies investigating the effect of vitamin D deficiency on physical symptoms in fibromyalgia patients.
+Materials and Methods: All studies that were according with keywords in Turkish and English languages which were published in Pubmed and Google Scholar databases were scanned. The keywords 'fibromyalgia' and 'Vitamin D' were used as keywords in the English language, the keywords 'fibromiyalji' and 'D vitamini' were used in the Turkish language. 
+Results: The number of studies with 2 keywords in the title and examining the physical findings is 20. Of the 2230 individuals included in the study, 9 were national and 11 were international studies. Of the 20 studies, 8 consisted of the patient group and 12 consisted of the patient and control groups. Six studies had vitamin D replacement therapy. In the studies, pain, sleepiness, fatigue, fibromyalgia efficacy, quality of life, anxiety, depression, sexuality, balance parameters were examined. Pain, fatigue, sleep state are the most frequently examined physical findings.  
+Conclusion: It is observed that vitamin D deficiency in fibromyalgia patients increases pain and fibromyalgia symptoms, decreases quality of life, sleep time and balance, and does not make a significant difference in terms of fatigue level.
+
+Ýsimleri: ['Ýhsan KARABULUT', 'Deniz KOCAMAZ', 'Begümhan TURHAN']
+Yayýn Yýlý: 1 Kasým 2021
+Dergi ismi: Kahramanmaraþ Sütçü Ýmam Üniversitesi Týp Fakültesi Dergisi
+Yayýn sayfa url: https://dergipark.org.tr/tr/pub/ksutfd/issue/65386/818963
+Yayýn pdf linki: https://dergipark.org.tr/tr/download/article-file/1372749

@@ -1,0 +1,12 @@
+Makale Baþlýðý: The Care Dependency Levels of the Inpatients in The Palliative Care Center and Influencing Factors
+Özet: 
+Öz
+Purpose: This study has been conducted as a descriptive-cross sectional study with the purpose of examining care dependency levels of inpatients in palliative care center and factors affecting. Methods: The universe of the research consists of inpatients in a city hospital palliative care clinic in eastern Turkey. The sample size was determined to be 102 patients by conducting power analysis. A random sampling method was used. The study has been conducted between January 2019-February 2020. The data of the research were collected by using the questionnaire form containing socio-demographic information and the “Care Dependency Scale (CDS)”. SPSS 21.0 package program was used for statistical evaluation, and percentage, mean, standard deviation, Mann Whitney U and Kruskal-Wallis H tests were used in the analysis of data.
+Results: It was determined that mean score of the care dependency scale (CDS) was 40.1±6.0. It was determined that there was negative relationship between age and care dependence scale (r=-.432**, p=.000). The difference between gender, marital status, education level, diagnosis time and getting help during care variables and CDS score average was found to be statistically significant. (p<0.05). Patients were most dependent on these activities; hygiene, dressing and undressing and mobility, respectively.
+Conclusions: Patients in palliative care center were found to have high levels of care dependency.
+
+Yazar isimleri: ['Hakime ASLAN']
+Yayýn Yýlý: 31 Aðustos 2021
+Dergi ismi: Abant Týp Dergisi
+Yayýn sayfa url: https://dergipark.org.tr/tr/pub/abantmedj/issue/64672/816349
+Yayýn pdf linki: https://dergipark.org.tr/tr/download/article-file/1363753

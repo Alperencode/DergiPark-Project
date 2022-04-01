@@ -1,0 +1,10 @@
+Makale Baþlýðý Determination of some physical properties of Suruç plain soils of Þanlýurfa province
+
+Öz
+Objective: Soil physical properties are an important soil quality parameter that determines the sensitivity of soils to erosion. This study was carried out in Suruç Plain in Suruç district of Þanlýurfa province.Materials and Methods: The physical properties of the soils (volume weight, aggregate stability, soil water content, body) were determined as a result of the sampling study carried out at 70 different points in Suruç Plain from 0-30 cm depth at the coordinates taken by GPS.Results: Volume weight of soils varied between 1.32-1.38, aggregate stability between 30.02-53.28, field capacity between 14.08-27.36, and wilting point varied between 7.29-18.35. The results are respectively r=0.29 as the pearson correlation coefficient between aggregate stability and volume weight and r=0.38 as the correlation coefficient between field capacity and volume weight of soils, between these two parameters, at p<0.01 level a very important relationship, r=0.27 as the correlation coefficient between the wilting point and volume weight, and the relationship between them according to the significance level p>0.05, an important relationship, the correlation coefficient between the clay content and the field capacity r=0.36 and according to the significance level p<0.01 very important, correlation coefficient r=0.47 between clay contents and volume weight and p<0.01 very important relationships were determined according to significance level.Conclusion: Determination of soil physical properties requires more work to be done in the study area and in addition to the physical properties of the soil, chemical and biological analysis should be done.
+
+Ýsimleri: ['Ali Rýza ÖZTÜRKMEN', 'Emrah RAMAZANOÐLU', 'Ýsmail Cihan ÇÝÇEK']
+Yayýn Yýlý: 24 Haziran 2021
+Dergi ismi: Akademik Ziraat Dergisi
+Yayýn sayfa url: https://dergipark.org.tr/tr/pub/azd/issue/62964/770614
+Yayýn pdf linki: https://dergipark.org.tr/tr/download/article-file/1205721

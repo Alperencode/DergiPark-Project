@@ -1,0 +1,10 @@
+Makale Baþlýðý Tekrarlý Sprint Performansý ile Fiziksel ve Fizyolojik Parametrelerin Ýliþkisi
+
+Öz
+Bu çalýþmanýn amacý, tekrarlý sprintlerden kaynaklanan akut fizyolojik tepkiler üzerine alýnan ölçümleri gözden geçirmek ve parametreler arasýndaki iliþkileri belirleyebilmektir. Çalýþmaya 3. ligde oynayan yaþlarý 17 ile 37 arasýnda deðiþen 58 profesyonel erkek futbolcu katýldý. Çalýþmanýn amacý doðrultusunda futbolcularýn boy/kilo, kalp atým, kan laktat, durarak uzun atlama, dikey sýçrama, sürat, çeviklik, yo-yo ve tekrarlý sprint test deðerleri ölçüldü. Tekrarlý sprint testi sonrasýnda futbolcularýn performans düþüþ yüzdesi ve yorgunluk indeksi formül kullanýlarak belirlendi. Elde edilen araþtýrma verilerinin SPSS 26.0 lisanslý istatistik paket programýnda ortalama, yüzde, minimum, maksimum ve standart sapma deðerleri belirlendi. Parametrelerin, tekrarlý sprint göstergeleri ile arasýndaki iliþkiyi belirleyebilmek için pearson korelasyon analizi kullanýldý. Tek ayak (sað) uzun atlama ile performans düþüþ yüzdesi arasýnda pozitif yönde, kalp atým sayýsý ile yorgunluk indeksi ve en iyi sprint süresi arasýnda negatif yönde, MaxVo2 ile yorgunluk indeksi ve koþu ortalamasý arasýnda negatif yönde, çeviklik ile koþu ortalamasý arasýnda pozitif yönde, 10 metre sürat ile yorgunluk indeksi ve en iyi sprint süresi arasýnda pozitif yönde, 30 metre sürat ile yorgunluk indeksi, koþu ortalamasý ve en iyi sprint süresi arasýnda pozitif yönde, counter jump ile en iyi sprint süresi arasýnda negatif yönde, squat jump ile performans düþüþ yüzdesi arasýnda pozitif yönde iliþki olduðu görüldü. Sonuç olarak, MaxVo2 kapasitesi ve sürat becerisi iyi olan sporcularýn daha az yorulduðu, MaxVo2 kapasitesi, çeviklik ve sürat becerisi iyi olan sporcularýn koþu ortalamasýnýn daha iyi olduðunu, kalp atým sayýsý, sürat ve dikey sýçrama düzeyi iyi olanlarýn en iyi sprintinin daha iyi olduðu belirlendi.
+
+Ýsimleri: ['Recep Fatih KAYHAN', 'Ali KIZILET']
+Yayýn Yýlý: 30 Aðustos 2021
+Dergi ismi: Spor Eðitim Dergisi
+Yayýn sayfa url: https://dergipark.org.tr/tr/pub/seder/issue/62382/919704
+Yayýn pdf linki: https://dergipark.org.tr/tr/download/article-file/1715172
