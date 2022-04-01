@@ -28,7 +28,19 @@ Except for these I used 'json', 'os' and 'time' for outputting the data and wait
 
 ## Installation
 
-Installing the required modules
+Clone the project
+
+```bash
+git clone https://github.com/Alperencode/DergiPark-Project
+```
+
+Go to the project directory
+
+```bash
+cd DergiPark-Project
+```
+
+Install the required modules
 
 ```bash
 pip install -r requirements.txt
@@ -38,7 +50,7 @@ pip install -r requirements.txt
 
 ## Usage/Examples
 
-Run main.py which is in root directory 
+Run main.py in root directory 
 
 ```bash
 python main.py
@@ -62,6 +74,14 @@ Screenshot from JSON line data
 Screenshot from txt data
 
 <img src="img/txt-example.png" width=700>
+
+<br>
+
+## Related
+
+My other Web Scraping projects
+
+- [BeautifulSoup](https://github.com/Alperencode/BeautifulSoup)
 
 <br>
 
