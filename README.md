@@ -8,10 +8,10 @@ Afterwards, I outputted that data into different formats of files like .jsonl (J
 The number of formats can be increased by customizing the source code.
 
 &emsp; DergiPark currently has over 25.000 academic articles.
-I extracted them all with [Web Scraping](https://www.edureka.co/blog/web-scraping-with-python/#:~:text=Web%20scraping%20is%20an%20automated,or%20writing%20your%20own%20code.) in Python.
-Web Scraping is basically extracting the big amount of data from a specific website.
+I extracted them all through [Web Scraping](https://www.edureka.co/blog/web-scraping-with-python/#:~:text=Web%20scraping%20is%20an%20automated,or%20writing%20your%20own%20code.) with Python.
+Web Scraping is basically extracting a big amount of data from a specific website by reaching its source codes and parsing the tags.
 
-&emsp; This data can be used in Ai models to give meaning to this data or train any model with them. 
+&emsp; The data that I extracted can be used in Ai models to give meaning to this data or train any model with them. 
 Because the data is academic peer-reviewed articles this data can be used in any formal project
 
 <br>
@@ -79,9 +79,11 @@ Screenshot from txt data
 
 ## Related
 
-My other Web Scraping projects
+- [BeautifulSoup](https://github.com/Alperencode/BeautifulSoup): My other Web Scraping projects
 
-- [BeautifulSoup](https://github.com/Alperencode/BeautifulSoup)
+- [Python](https://github.com/Alperencode/Python): My main Python repository
+
+- [Algorithm-Solutions](https://github.com/Alperencode/Algorithm-Solutions): My LeetCode and CodeWars algorithm solutions with python
 
 <br>
 
