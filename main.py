@@ -5,7 +5,6 @@ import os
 import json
 
 data_list = []
-konu_list = []
 counter = 0
 checkCounter = 0
 errorCounter = 0
@@ -53,13 +52,18 @@ for url in linkList:
 def createDataDict(checkledLink):
     global checkCounter
     global counter
+    counter += 1
+    
+    # 429 means that the server is overloaded
     url = requests.get(checkledLink)
     if url.status_code == 429:
         time.sleep(int(url.headers["Retry-After"]) + 10)
-        print(f"slept {int(url.headers['Retry-After']) + 10} seconds")   
+        print(f"waited {int(url.headers['Retry-After']) + 10} seconds")   
+    
     soup = BeautifulSoup(url.content,"lxml")
+    
+    # clearing the previous dict
     dataDict = {}
-    counter += 1
 
     # Makale Başlığı
     article_title = soup.find("h3",class_="article-title").text.strip()
@@ -70,18 +74,16 @@ def createDataDict(checkledLink):
     dataDict['Özet'] = ozet_section.text.replace("\n","")
     
     # Konu
-    # split the values due ',' and take the first one
-    # Note: This made for getting only the first 'Konu' of the article
-    # You can use 'dataDict['Konular'] = tr_tag.td.text.strip()' to get all 'Konu' values:   
+    # split the values due ','
     info_table = soup.find("table",class_="record_properties table")
     tr_tags = info_table.find_all("tr")
     try:
         for tr_tag in tr_tags:
             if tr_tag.th.text.strip() == "Konular":
-                first_konu = tr_tag.td.text.strip().split(",")[0]
-                dataDict['Konular'] = first_konu
-                if first_konu not in konu_list:
-                    konu_list.append(first_konu)
+                konu_list = []
+                for konu in tr_tag.td.text.strip().split(","):
+                    konu_list.append(konu.strip())
+                dataDict['Konular'] = konu_list
     except:
         dataDict['Konular'] = ''
 
@@ -163,7 +165,6 @@ def checkFunc(magazineLink):
         labelText = ' '.join(labelText)
         labelText = labelText.replace("\n","").lower()
         # Control
-        url = f"https:{label.get('href')}"
         try:
             createDataDict(f"https:{label.get('href')}")
         except:
@@ -171,7 +172,7 @@ def checkFunc(magazineLink):
                 createDataDict(f"{label.get('href')}")
             except:
                 errorCounter += 1
-                print(f"Error appered [{errorCounter}. Error] , url: https:{label.get('href')}")
+                print(f"Error appered [{errorCounter}. Error] , url: {label.get('href')}")
 
         checkCounter += 1
 
