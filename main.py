@@ -120,23 +120,16 @@ def ParseArticle(articleLink):
     pdf_link = f"https://dergipark.org.tr{shortLink}"
     dataDict['Yayın PDF'] = pdf_link
     
-    # Parsing the data has been done
-    # I'm adding the data to the data_list
+    # I'm adding Parsed data to the data_list
     data_list.append(dataDict)
 
     print(f"{counter}. Article created")
 
+    # OUTPUT TO TXT FILE
     # Writing the information into txt file (Used in articles directory)
     # But its not necessary for the main project
-
-    # with open("article{counter}.txt",'w',encoding='utf-8') as f:
-    #     f.write(f"Makale Başlığı: {dataDict['Makale Başlığı']}\n")
-    #     f.write(f"Özet: {dataDict['Özet']}\n")
-    #     f.write(f"Yazar isimleri: {dataDict['Yazar İsimleri']}\n")
-    #     f.write(f"Yayın Yılı: {dataDict['Yayın Yılı']}\n")
-    #     f.write(f"Dergi ismi: {dataDict['Dergi İsmi']}\n")
-    #     f.write(f"Yayın sayfa url: {dataDict['Yayın Sayfa URL']}\n")
-    #     f.write(f"Yayın pdf linki: {dataDict['Yayın PDF']}\n")
+    # ↓ Uncomment the code below to use
+    # OutputToTXTFile(dataDict)
 
 # You can add specific Controls for articles
 def AddControl(label):
@@ -183,10 +176,23 @@ for magazinLink in magazine_links:
 # --------- Parsing the Data End ---------
 
 # --------- Output of the Data ---------
-with open(f'article.jsonl', 'w',encoding='utf-8') as outfile:
-    for entry in data_list:
-        json.dump(entry, outfile,ensure_ascii=False)
-        outfile.write('\n')
+def OutputToJSONLFile():
+    with open(f'article.jsonl', 'w',encoding='utf-8') as outfile:
+        for entry in data_list:
+            json.dump(entry, outfile,ensure_ascii=False)
+            outfile.write('\n')
+OutputToJSONLFile()
+
+def OutputToTXTFile(data):
+    global counter
+    with open("article{counter}.txt",'w',encoding='utf-8') as txt:
+        txt.write(f"Makale Başlığı: {data['Makale Başlığı']}\n")
+        txt.write(f"Özet: {data['Özet']}\n")
+        txt.write(f"Yazar isimleri: {data['Yazar İsimleri']}\n")
+        txt.write(f"Yayın Yılı: {data['Yayın Yılı']}\n")
+        txt.write(f"Dergi ismi: {data['Dergi İsmi']}\n")
+        txt.write(f"Yayın sayfa url: {data['Yayın Sayfa URL']}\n")
+        txt.write(f"Yayın pdf linki: {data['Yayın PDF']}\n")
 # --------- Output of the Data End ---------
 
 print(f"\nFinished with {errorCounter} errors.")
