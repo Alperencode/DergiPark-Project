@@ -6,7 +6,6 @@ import json
 
 data_list = []
 counter = 0
-checkCounter = 0
 errorCounter = 0
 
 # --------- Gathering Links ---------
@@ -47,22 +46,20 @@ for url in linkList:
 # --------- Gathering Links End ---------
 
 # --------- Parsing the Data --------- 
-# Creating data dictionary for each checked article
-# Note: For this project, I didn't add any controls so all links will be used
-def createDataDict(checkledLink):
-    global checkCounter
+# Parsing the data from each article link
+def ParseArticle(articleLink):
     global counter
     counter += 1
     
     # 429 means that the server is overloaded
-    url = requests.get(checkledLink)
+    url = requests.get(articleLink)
     if url.status_code == 429:
         time.sleep(int(url.headers["Retry-After"]) + 10)
         print(f"waited {int(url.headers['Retry-After']) + 10} seconds")   
     
     soup = BeautifulSoup(url.content,"lxml")
     
-    # clearing the previous dict
+    # creating new dictionary for each article
     dataDict = {}
 
     # Makale Başlığı
@@ -113,7 +110,7 @@ def createDataDict(checkledLink):
     dataDict['Dergi İsmi'] = magazine_name
 
     # Yayın Sayfa URL
-    page_url = checkledLink
+    page_url = articleLink
     dataDict['Yayın Sayfa URL'] = page_url
 
     # Yayın PDF'i
@@ -127,7 +124,7 @@ def createDataDict(checkledLink):
     # I'm adding the data to the data_list
     data_list.append(dataDict)
 
-    print(f"{counter}. Article created [{checkCounter}. Article]")
+    print(f"{counter}. Article created")
 
     # Writing the information into txt file (Used in articles directory)
     # But its not necessary for the main project
@@ -149,8 +146,7 @@ def createDataDict(checkledLink):
 # Just need to add 'if' statement to the 'for label in labels:' loop (E.g: if 'fizik in label':) 
 
 # Because the purpose of this project is to extract all articles, I didn't add any controls
-def checkFunc(magazineLink):
-    global checkCounter
+def ParseMagazine(magazineLink):
     global errorCounter
     url = requests.get(magazineLink)
     if url.status_code == 429:
@@ -166,18 +162,17 @@ def checkFunc(magazineLink):
         labelText = labelText.replace("\n","").lower()
         # Control
         try:
-            createDataDict(f"https:{label.get('href')}")
+            ParseArticle(f"https:{label.get('href')}")
         except:
             try:
-                createDataDict(f"{label.get('href')}")
+                ParseArticle(f"{label.get('href')}")
             except:
                 errorCounter += 1
-                print(f"Error appered [{errorCounter}. Error] , url: {label.get('href')}")
+                print(f"An error occurred [{errorCounter}. Error] , url: {label.get('href')}")
 
-        checkCounter += 1
 
 for magazinLink in magazine_links:
-   checkFunc(magazinLink)
+   ParseMagazine(magazinLink)
 # --------- Parsing the Data End ---------
 
 # --------- Output of the Data ---------
@@ -187,4 +182,4 @@ with open(f'article.jsonl', 'w',encoding='utf-8') as outfile:
         outfile.write('\n')
 # --------- Output of the Data End ---------
 
-print(f"\nFinished checking articles on {checkCounter} with {errorCounter} errors.")
+print(f"\nFinished with {errorCounter} errors.")
