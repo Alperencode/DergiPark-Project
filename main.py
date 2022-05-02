@@ -64,7 +64,8 @@ def ParseArticle(articleLink):
 
     # Makale Başlığı
     article_title = soup.find("h3",class_="article-title").text.strip()
-    dataDict['Makale Başlığı'] = article_title
+    if len(article_title) < 1:
+        article_title = soup.findAll("h3",class_="article-title")[1].text.strip()
     
     # Özet 
     ozet_section = soup.find("div",class_="article-abstract data-section")
