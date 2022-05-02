@@ -111,8 +111,7 @@ def ParseArticle(articleLink):
     dataDict['Dergi İsmi'] = magazine_name
 
     # Yayın Sayfa URL
-    page_url = articleLink
-    dataDict['Yayın Sayfa URL'] = page_url
+    dataDict['Yayın Sayfa URL'] = articleLink
 
     # Yayın PDF'i
     tool_bar = soup.find("div", attrs={"id":"article-toolbar"})
@@ -146,13 +145,7 @@ def AddControl(label):
     # else:
     #     return False
 
-# Checking articles
-# This made for adding controls to the data extraction
-# For example:
-# If you want to extract only articles with 'fizik' in their label, you can customize this function for it
-# Just need to add 'if' statement to the 'for label in labels:' loop (E.g: if 'fizik in label':) 
-
-# Because the purpose of this project is to extract all articles, I didn't add any controls
+# Parsing the magazine to get each article
 def ParseMagazine(magazineLink):
     global errorCounter
     url = requests.get(magazineLink)
