@@ -137,7 +137,20 @@ def ParseArticle(articleLink):
     #     f.write(f"Dergi ismi: {dataDict['Dergi İsmi']}\n")
     #     f.write(f"Yayın sayfa url: {dataDict['Yayın Sayfa URL']}\n")
     #     f.write(f"Yayın pdf linki: {dataDict['Yayın PDF']}\n")
- 
+
+# You can add specific Controls for articles
+def AddControl(label):
+    labelText = label.text.split(".")
+    labelText.pop(0)
+    labelText = ' '.join(labelText)
+    labelText = labelText.replace("\n","").lower()
+    # Example return for labelText: "COVID-19, Wine Routes, Crisis Management and Resilience Amongst Rural Wine Tourism Businesses"
+
+    # Example of usage:
+    # if "COVID-19" in labelText:
+    #     return True
+    # else:
+    #     return False
 
 # Checking articles
 # This made for adding controls to the data extraction
@@ -155,12 +168,7 @@ def ParseMagazine(magazineLink):
     soup = BeautifulSoup(url.content,"lxml")
     labels = soup.find_all("a",class_="card-title article-title")
     for label in labels:
-        # removing row number and creating string variable for labels to check "roman"
-        labelText = label.text.split(".")
-        labelText.pop(0)
-        labelText = ' '.join(labelText)
-        labelText = labelText.replace("\n","").lower()
-        # Control
+        # AddControl(label)
         try:
             ParseArticle(f"https:{label.get('href')}")
         except:
@@ -169,7 +177,6 @@ def ParseMagazine(magazineLink):
             except:
                 errorCounter += 1
                 print(f"An error occurred [{errorCounter}. Error] , url: {label.get('href')}")
-
 
 for magazinLink in magazine_links:
    ParseMagazine(magazinLink)
