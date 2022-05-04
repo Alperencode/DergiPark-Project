@@ -165,13 +165,13 @@ def ParseMagazine(magazineLink):
                 errorCounter += 1
                 print(f"An error occurred [{errorCounter}. Error] , url: {label.get('href')}")
 
-for magazinLink in magazine_links:
-   ParseMagazine(magazinLink)
+for magazineLink in magazine_links:
+   ParseMagazine(magazineLink)
 # --------- Parsing the Data End ---------
 
 # --------- Output of the Data ---------
 def OutputToJSONLFile():
-    with open(f'article.jsonl', 'w',encoding='utf-8') as outfile:
+    with open('article.jsonl', 'w',encoding='utf-8') as outfile:
         for entry in data_list:
             json.dump(entry, outfile,ensure_ascii=False)
             outfile.write('\n')
@@ -179,7 +179,7 @@ OutputToJSONLFile()
 
 def OutputToTXTFile(data):
     global counter
-    with open("article{counter}.txt",'w',encoding='utf-8') as txt:
+    with open(f"article{counter}.txt",'w',encoding='utf-8') as txt:
         txt.write(f"Makale Başlığı: {data['Makale Başlığı']}\n")
         txt.write(f"Özet: {data['Özet']}\n")
         txt.write(f"Yazar isimleri: {data['Yazar İsimleri']}\n")
