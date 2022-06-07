@@ -5,8 +5,18 @@ import os
 import json
 
 data_list = []
-counter = 0
+parsingCounter = 0
 errorCounter = 0
+
+# --------- Loading Animation/Message ---------
+loadingCounter = 0
+animation = "|/-\\"
+def loadingAnimation(text):
+    global loadingCounter
+    global animation
+    loadingCounter += 1
+    print(f"{text} {animation[loadingCounter % len(animation)]}", end="\r")
+# --------- Loading Animation/Message End ---------
 
 # --------- Gathering Links ---------
 linkList = []
@@ -42,14 +52,17 @@ for pageNumber in range(1,last_page+1):
 
 # using get_magazine_links function
 for url in linkList:
+    loadingAnimation("Gathering magazine links from each page")
     get_magazine_links(url)
+print("All magazines links gathered")
 # --------- Gathering Links End ---------
 
 # --------- Parsing the Data --------- 
 # Parsing the data from each article link
+print("\nStarting parsing the data")
 def ParseArticle(articleLink):
-    global counter
-    counter += 1
+    global parsingCounter
+    parsingCounter += 1
     
     # 429 means that the server is overloaded
     url = requests.get(articleLink)
@@ -123,7 +136,7 @@ def ParseArticle(articleLink):
     # I'm adding Parsed data to the data_list
     data_list.append(dataDict)
 
-    print(f"{counter}. Article created")
+    print(f"{parsingCounter}. Article created")
 
     # OUTPUT TO TXT FILE
     # Writing the information into txt file (Used in articles directory)
@@ -166,7 +179,7 @@ def ParseMagazine(magazineLink):
                 print(f"An error occurred [{errorCounter}. Error] , url: {label.get('href')}")
 
 for magazineLink in magazine_links:
-   ParseMagazine(magazineLink)
+    ParseMagazine(magazineLink)
 # --------- Parsing the Data End ---------
 
 # --------- Output of the Data ---------
@@ -178,8 +191,8 @@ def OutputToJSONLFile():
 OutputToJSONLFile()
 
 def OutputToTXTFile(data):
-    global counter
-    with open(f"article{counter}.txt",'w',encoding='utf-8') as txt:
+    global parsingCounter
+    with open(f"article{parsingCounter}.txt",'w',encoding='utf-8') as txt:
         txt.write(f"Makale Başlığı: {data['Makale Başlığı']}\n")
         txt.write(f"Özet: {data['Özet']}\n")
         txt.write(f"Yazar isimleri: {data['Yazar İsimleri']}\n")
