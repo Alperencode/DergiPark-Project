@@ -1,8 +1,5 @@
 from bs4 import BeautifulSoup
-import time
-import requests
-import os
-import json
+import time,requests,os,json
 
 data_list = []
 parsingCounter = 0
@@ -12,8 +9,7 @@ errorCounter = 0
 loadingCounter = 0
 animation = "|/-\\"
 def loadingAnimation(text):
-    global loadingCounter
-    global animation
+    global loadingCounter,animation
     loadingCounter += 1
     print(f"{text} {animation[loadingCounter % len(animation)]}", end="\r")
 # --------- Loading Animation/Message End ---------
@@ -54,7 +50,7 @@ for pageNumber in range(1,last_page+1):
 for url in linkList:
     loadingAnimation("Gathering magazine links from each page")
     get_magazine_links(url)
-print("All magazines links gathered")
+print("\nAll magazines links gathered")
 # --------- Gathering Links End ---------
 
 # --------- Parsing the Data --------- 
