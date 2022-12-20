@@ -1,0 +1,7 @@
+Makale Başlığı: Çardak Lagünü'nde (Çanakkale Boğazı) Bulunan Portunid Yengeç, Carcinus aestuarii Nardo, 1847'nin Hemolenfinde Çevresel Değişkenlerin ve Morfometrinin Hemosit Yapısına Etkileri
+Özet: Bu çalışma, Carcinus aestuarii'de hemosit sayısı ile hemosit tipleri arasındaki ilişkiyi çevresel değişkenler ve morfometrik ölçümlerle belirlemeyi amaçlamaktadır. Çardak Lagünü'nde Haziran 2018, Ekim 2018, Şubat 2019 ve Mayıs 2019'da mevsimsel olarak toplam 240 yengeç toplanmıştır. Ortalama kabuk uzunluğu (CL) 44.66±0.44 mm, ortalama kabuk genişliği (CW) 37.71±0.38 mm ve ortalama ağırlık 28.49±0.88 g’ idi. Yengeç örnekleri buz üzerinde 10 dakika süreyle anesteziye tabi tutuldu ve 1 mL'lik plastik bir şırınga kullanılarak her bir yengecin bacaklarından 500 uL hemolenf toplandı. Örneklemeden sonra hemolenf örnekleri bir Thoma lamına uygulanan antikoagülan ile karıştırıldı ve X40 büyütmede mikroskop altında incelendi. Toplam hemosit sayısı (THC) 13.91±8.08x106 (hücre/mm3) olarak hesaplandı. Diferansiyel hemosit sayısı (DHC) hiyalinosit için % 53.25±0.6, yarı granülosit için  % 26.15±0.23 ve granülosit için  % 20.6±0.06 ve 3 farklı hücre tipi gözlendi. En baskın hücre tipi hyalinosit hücreleridir.
+Yazar isimleri: ['Seçil ACAR', 'A. Suat ATEŞ']
+Yayın Yılı: 1 Aralık 2022
+Dergi ismi: Acta Aquatica Turcica
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/actaquatr/issue/73643/1150615
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2564352

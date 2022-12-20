@@ -1,0 +1,7 @@
+Makale Başlığı: Batı Anadolu’da Ekstrem Sıcaklıklardaki Zamansal Değişimler
+Özet: Bu çalışmada, Batı Anadolu’da 1966–1976, 1977–1997, 1998–2018 ile 1966–2018 yılları arasında ekstrem sıcaklık indislerinin yıllık ve mevsimlik ölçeklerde zamansal değişimlerinin incelenmesi amaçlanmıştır. Batı Anadolu’da yer alan 35 meteoroloji istasyonunda, 1966–2018 yılları arasında kaydedilen günlük maksimum ve minimum sıcaklıklar kullanılmıştır. RClimDex yazılımı kullanılarak on yedi ekstrem sıcaklık indisi üretilmiştir. İndislerin zamansal değişimlerinin istatistiksel önem düzeyi Mann–Kendall testi ile değişimlerin büyüklükleri ise Sen’in Eğim testi ile belirlenmiştir. Çalışma sonucunda, genel olarak, 1966–1976 döneminde soğuk indislerde artış, sıcak indislerde azalma trendi gözlenmiş, sonraki alt dönemlerde ve tüm dönem boyunca, daha kuvvetli olmak üzere, soğuk indislerde azalış, sıcak indislerde ise artış eğilimi bulunmuştur. Yaz mevsimindeki trendler diğer mevsimlerdekinden daha kuvvetlidir. Batı Anadolu’da ekstrem sıcaklık indislerindeki değişimlerin, hem yıllık hem de mevsimsel ölçekte, ortalama sıcaklıklardaki değişimlerle uyumlu olduğu sonucuna ulaşılmıştır.
+Yazar isimleri: ['Ercan YEŞİLIRMAK']
+Yayın Yılı: 28 Haziran 2022
+Dergi ismi: Adnan Menderes Üniversitesi Ziraat Fakültesi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/aduziraat/issue/70636/1035921
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2129438

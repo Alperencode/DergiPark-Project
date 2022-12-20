@@ -1,0 +1,7 @@
+Makale Başlığı: MULTI-LABEL TEXT ANALYSIS WITH A CNN AND LSTM BASED HYBRID DEEP LEARNING MODEL
+Özet: In this article, it is aimed to categorize meaningful content from uncontrolled growing written social sharing data using natural language processing. Uncategorized data can disturb social sharing users with an increasing user network due to deprecating and negative content. For the stated reason, a hybrid model based on CNN and LSTM has been proposed to automatically classify all written social sharing content, both positive and negative, into defined target tags. With the proposed hybrid model, it is aimed at automatically classifying the content of the social sharing system into different categories by using the simplest embedding layer, keras. As a result of the experimental studies carried out, a better result was obtained than in the different studies in the literature using the same data set with the proposed method. The obtained performance results show that the proposed method can be applied to different multilabel text analysis problems.
+Yazar isimleri: ['Halit ÇETİNER']
+Yayın Yılı: 31 Ağustos 2022
+Dergi ismi: Adıyaman Üniversitesi Mühendislik Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/adyumbd/issue/72397/1106981
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2388518

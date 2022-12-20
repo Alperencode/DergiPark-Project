@@ -1,0 +1,7 @@
+Makale Başlığı: DOĞRUDAN YABANCI YATIRIMLAR VE ÇEVRE KİRLİLİĞİ İLİŞKİSİ: TÜRKİYE İÇİN DOĞRUSAL OLMAYAN YUMUŞAK GEÇİŞ MODELLERİNDEN AMPİRİK KANITLAR
+Özet: Doğrudan Yabancı Yatırımlar (DYY), özellikle gelişmekte olan ülkelerin ekonomik büyüme ve kalkınma sürecinde oldukça önemli bir sermaye kaynağıdır. Türkiye’ de son yıllarda yüksek miktarda doğrudan yabancı yatırım girişine sahip gelişmekte olan ülkeler arasındadır. Bu çalışmanın amacı, Türkiye’ de DYY girişlerinin çevre üzerindeki etkilerini incelemektir. 1971-2015 dönemi verileri ile yapılan çalışmada, öncelikle modele dahil edilen değişkenlere ilişkin doğrusallık testi, doğrusal olmayan yumuşak geçiş modellerine dayalı birim kök ve Hepsağ (2021b) tarafından önerilen asimetrik doğrusal olmayan bir eşbütünleşme testi kullanılmaktadır. Makalenin ampirik bulgularına göre, Türkiye’ de Kirlilik Sığınağı Hipotezi (KSH) geçerlidir Ayrıca kişi başına düşen gelir, kentleşme ve enerji kullanımı da CO2 emisyonunu artırarak uzun dönemde çevresel kalite üzerinde olumsuz etkilere neden olmaktadır.
+Yazar isimleri: ['Fıkrat ABASOV', 'Gülbahar ÜÇLER']
+Yayın Yılı: 29 Haziran 2022
+Dergi ismi: Ahi Evran Üniversitesi İktisadi ve İdari Bilimler Fakültesi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/aeuiibfd/issue/70693/1061990
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2208529

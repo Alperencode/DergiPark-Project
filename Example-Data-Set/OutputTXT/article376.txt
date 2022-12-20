@@ -1,0 +1,7 @@
+Makale Başlığı: Machine Learning-Based Comparative Study For Heart Disease Prediction
+Özet: 
+Yazar isimleri: ['Merve GÜLLÜ', 'M. Ali AKCAYOL', 'Necaattin BARIŞÇI']
+Yayın Yılı: 23 Eylül 2022
+Dergi ismi: Advances in Artificial Intelligence Research
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/aair/issue/72581/1145616
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2545753

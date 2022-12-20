@@ -1,0 +1,7 @@
+Makale Başlığı: An Approach Towards the Least-Squares Method for Simple Linear Regression
+Özet: 
+Yazar isimleri: ['Hasan Halit TALİ']
+Yayın Yılı: 23 Eylül 2022
+Dergi ismi: Advances in Artificial Intelligence Research
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/aair/issue/72581/1032607
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2115730

@@ -1,0 +1,7 @@
+Makale Başlığı: YAPI MALZEMELERİNİN GEOPOLİMER HARÇ ÜRETİMİNDE KUM OLARAK GERİ DÖNÜŞTÜRÜLMESİNİN İNCELENMESİ
+Özet: Bu çalışmanın temel amacı, doğal kuma alternatif olarak geri dönüştürülmüş kum malzemelerinin araştırılmasıdır. Bunun için bu çalışmada, uçucu kül bazlı geopolimer harç üretiminde yapı malzemelerinden geri dönüştürülmüş farklı kumların olası kullanım etkileri deneysel olarak araştırılmıştır. Bu kapsamda, beton, bazalt karo, granit karo, mermer karo ve seramik karo gibi inşaat malzemelerinin geri dönüşümünden elde edilen beş farklı türde geri dönüştürülmüş kum malzemesi doğal kuma alternatif olarak değerlendirilmiştir. Uçucu kül bazlı geopolimer harçların üretiminde, doğal kum, bu geri dönüştürülmüş kumlarla hacimce 10, 20, 30, 40 ve %50’lik oranlarda ikame edildi. Böylece biri kontrol karışımı olmak üzere toplam 26 farklı geopolimer karışımı tasarlanmış ve üretilmiştir. Üretilen geopolimer harçların birim ağırlık, su emme, yarmada çekme ve özellikle termal iletkenlik özellikleri test edildi. Deney sonuçları geri dönüşüm kumlarının geopolimer harçların özelliklerini ciddi mertebelerde etkilemediğini göstermiş olup bu geri dönüştürülmüş kumların kontrollü bir şekilde geopolimer harçların üretiminde kullanılabileceği sonucuna varılmıştır.
+Yazar isimleri: ['Süleyman İPEK', 'Şevin EKMEN']
+Yayın Yılı: 31 Ağustos 2022
+Dergi ismi: Adıyaman Üniversitesi Mühendislik Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/adyumbd/issue/72397/1085538
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2300811

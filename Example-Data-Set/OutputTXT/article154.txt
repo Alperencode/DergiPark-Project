@@ -1,0 +1,7 @@
+Makale Başlığı: APMAS 2021 Abstract Book
+Özet: This book contains abstracts approved by the Congress Review Committee. Authors are responsible for the content and accuracy. Opinions expressed may not necessarily reflect the position of the international scientific council of APMAS 2021.
+Yazar isimleri: ['Ahmet Yavuz ORAL', 'Onur Alp AKSAN', 'Zehra Banu BAHŞİ ORAL', 'Seda KOL', 'Fatmanur KOCAMAN', 'Vala Can AŞKAN', 'B. Şölen AKDEMİR']
+Yayın Yılı: 8 Kasım 2021
+Dergi ismi: Acta Materialia Turcica
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/actamat/issue/65721/1020500
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2069077

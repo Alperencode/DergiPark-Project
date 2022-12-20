@@ -1,0 +1,7 @@
+Makale Başlığı: Study of Wavelet Entropy Analysis of the Fermion-like Instanton Solutions
+Özet: Instantons are classical topological solutions, playing an important role in particle physics and cosmology. In this study, the periodicity of the orbits of the fermion-like instanton solutions in the two-dimensional Thirring model obtained with the Heisenberg ansatz is investigated. The trajectories of fermion-like instanton solutions are investigated by the Shannon wavelet entropy (WE) method. In addition, WE and WE spectrum in phase space are analyzed in order to have information about the characteristics of the trajectories of fermion-like instanton solutions. As a result of the study, it was seen that the fermion-like instanton solutions have regular trajectories around the stable point and irregular trajectories at other points. It was also compared with other known entropy methods (Renyi entropy and Tsallis entropy) and similar results were observed.
+Yazar isimleri: ['Beyrul CANBAZ']
+Yayın Yılı: 27 Ekim 2022
+Dergi ismi: Afyon Kocatepe Üniversitesi Fen Ve Mühendislik Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/akufemubid/issue/73201/1122381
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2451713

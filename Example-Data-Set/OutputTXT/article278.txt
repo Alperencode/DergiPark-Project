@@ -1,0 +1,7 @@
+Makale Başlığı: EXPERIMENTAL INVESTIGATION of DOUBLE AGING HEAT TREATMENT of INCONEL 718 MONOBLOCK GAS TURBINE DISC IN A SALT BATH
+Özet: The heat treatment of Inconel 718 (In718) monoblock gas turbine discs are mainly done by vacuum furnaces. Despite the vacuum furnaces allow to make a clean and reliable heat treatment, its operation costs affects the final product’s cost. In this work, as an alternative to the vacuum furnaces, the double aging heat treatment of In718 disc in a salt bath was investigated. The appropriate temperature for high and low temperature salt bath was identified in order to achieve necessary cooling rates of 125°C/min and 120°C/min for a 400 kg workpiece. It is shown that the heat treatment could be done when the high and low temperature salt baths temperatures are equal to 300°C. It is also found that the heat transfer coefficient for simulation could be taken as 650 W/m2.K regardless to the salt bath temperature.
+Yazar isimleri: ['Alper KELEŞOĞLU', 'Nergiz KANMAZ']
+Yayın Yılı: 31 Ağustos 2022
+Dergi ismi: Adıyaman Üniversitesi Mühendislik Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/adyumbd/issue/72397/1008369
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2021695

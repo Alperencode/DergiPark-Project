@@ -1,0 +1,7 @@
+Makale Başlığı: Evaluation of the Usefulness of Youtube Videos as Sources Related to Macular Hole Surgery
+Özet: Purpose: To evaluate the usefulness of YouTube videos about macular hole surgery as a resource.Materials and Methods: The first 100 videos were evaluated when they were scanned by typing "macular hole surgery" in the YouTube search engine. These videos were also analyzed and scored using DISCERN, Journal of the American Medical Association (JAMA) and Global Quality (GQ) scoring systems.Results: The DISCERN score of the evaluated videos was 34.5±7.6, JAMA score was 1.6±0.6, and The GQ score was 2.2±0.5. According to the results, macular hole videos’ DISCERN score was weak, their JAMA score was evaluated as low quality and GQ score was in poor quality.Conclusion: Although there are sufficient number of videos on YouTube on macular hole surgery, their usefulness as a resource is low and their quality is poor.
+Yazar isimleri: ['Murat Serkan SONGUR', 'Mehmet ÇITIRIK']
+Yayın Yılı: 30 Ağustos 2022
+Dergi ismi: Ahi Evran Tıp Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/aemj/issue/72173/948909
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1810655

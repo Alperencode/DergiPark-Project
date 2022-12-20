@@ -1,0 +1,7 @@
+Makale Başlığı: DETERMINATION OF A FIELD HOSPITAL LOCATION WITH MCDM TECHNIQUES FOR COVID-19 AND ANY OTHER PANDEMICS IN FUTURE
+Özet: This study was carried out to improve, develop and support the health services that are insufficient in the rapid virus spread between the European Union countries. In this study, it is aimed to determine the location of a field hospital that will serve the patients of the European Union countries, especially the population most affected by the pandemic, in the case of the COVID-19 pandemic and the possible pandemics that may occur. A multi criteria decision model was proposed with 5 main and 20 sub-criteria in order to determine the location of a potential field hospital and six candidate European Union countries were evaluated according to these sub-criteria. In the solution phase of the problem two multi-criteria decision making methods are used in a sequence, firstly the importance weights of the selection criteria were determined with SWARA method and secondly the alternative countries were evaluated and ranked with EDAS method.
+Yazar isimleri: ['G.nilay YÜCENUR']
+Yayın Yılı: 31 Ağustos 2022
+Dergi ismi: Adıyaman Üniversitesi Mühendislik Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/adyumbd/issue/72397/1070522
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2242078

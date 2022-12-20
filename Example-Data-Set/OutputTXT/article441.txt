@@ -1,0 +1,7 @@
+Makale Başlığı: Numerical Solutions of Fractional Order Pseudo Hyperbolic Differential Equations by Finite Difference Method
+Özet: Fractional differential equations are useful for modelling mathematical issues in fields including engineering, physics, and biology. In this article, approximate solutions of an initial boundary value problem for fractional pseudo hyperbolic differential equations are investigated using the finite difference method. First, a first-order finite difference scheme is created for the initial boundary value problem. Then, stability analysis was performed for this finite difference scheme. In order to support the theoretical results obtained, error values were calculated for precise and approximate solutions in different fractional order derivatives of a sample problem. Some numerical simulations are also given to show the effectiveness of the applied solution method.
+Yazar isimleri: ['Fatih ÖZBAĞ', 'Mahmut MODANLI']
+Yayın Yılı: 27 Ekim 2022
+Dergi ismi: Afyon Kocatepe Üniversitesi Fen Ve Mühendislik Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/akufemubid/issue/73201/1124445
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2460149

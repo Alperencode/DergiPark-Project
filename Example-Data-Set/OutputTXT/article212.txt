@@ -1,0 +1,7 @@
+Makale Başlığı: Sayısal Delilin Değiştirilemezliğinin Sağlanmasının Yolu Olarak Özet Değer Kavramı ve Özet Değer Çakışması
+Özet: Ceza muhakemesine konu maddi olayı ispatlamak için kullanılan delil, mahkemenin önüne getirilene kadar değiştirilmemelidir. Fiziksel delillerin, adli emanete alınması suretiyle doğruluklarını sağlamak nispeten kolaydır. Bununla birlikte sayısal delillerin kolayca kopyalanabilmeleri ve değiştirilebilmeleri, doğruluklarının sağlanması güçtür. Sayısal delillerin doğruluklarını temin etmek için teknolojik olanaklardan yararlanılmaktadır. Tek yönlü özetleme değeri sağlayan özet değer (hash value), bir parmak izi gibi sayısal delile uygulanabilmekte ve sayısal delilin doğruluğunu sağlamaya yardımcı olmaktadır. Ancak iki farklı sayısal verinin aynı özet değere sahip olması olan özet değer çakışması, sayısal delilin doğruluğunu sağlamada sorunlu bir alandır. Bu çalışmada sayısal delilin doğruluğunu sağlama aracı olarak özet değer kavramı açıklanacak ve özet değerin çakışmasının muhtemel etkilerine değinilecektir.
+Yazar isimleri: ['Olgun DEĞİRMENCİ']
+Yayın Yılı: 12 Aralık 2022
+Dergi ismi: Adalet Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/adaletdergisi/issue/73791/1217741
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2826163

@@ -1,0 +1,7 @@
+Makale Başlığı: Periferik Sinir Yaralanmaları ve Rejenerasyonu
+Özet: Periferik sinirler merkezi sinir sistemi ve periferal organlar arasındaki motor ve duyu uyarımını sağlayan hedef organda uyardıkları fonksiyonlara göre isimledirilen çeşitli sinir liflerinden oluşan sistemdir. Travmalara oldukça açık bulunan periferik sinirlerde farklı sebepler ile yaralanmalar gözlemlenir. Bu şekilde periferik sinirlerde oluşabilecek hasar kişinin motor ve duyu uyarımını olumsuz etkilemektedir. Periferal yaralanmaların ardından perifrerik sinirde hasara bağlı olarak dejeneratif süreçler başlatılır. Aksonal devamlılığı kesintiye uğratacak derecedeki yaralanmalarda aksonda sinir fonksiyonunun devamlılığı için gereken metabolik olaylar gerçekleşemediği için distal kısımlar dejenerasyona uğrar. Periferik sinir rejenerasyonunda Schwann hücre dediferansiyasyonu, proliferasyonu ve remiyelinizasyon önemli rol oynar. Rejeneratif süreç ise oldukça fazla faktörün bir arada çalıştığı bir süreçtir. Bu derlemede, periferik sinirde meydana gelen yaralanmaların ardından gerçekleşen rejenerasyon süreci, ayrıca rejenerasyona etki eden nörotrofik faktörler ve tedavi sürecinde kullanılan farklı metotların etki mekanizmalarına değinilmiştir.
+Yazar isimleri: ['İşınsu ALKAN', 'Esra BEKAR', 'Zuhal ALTUNKAYNAK']
+Yayın Yılı: 30 Ağustos 2022
+Dergi ismi: Ahi Evran Tıp Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/aemj/issue/72173/975395
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1895517

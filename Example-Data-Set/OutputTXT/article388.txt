@@ -1,0 +1,7 @@
+Makale Başlığı: Some new equivalents of the Brouwer fixed point theorem
+Özet: 
+Yazar isimleri: []
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Advances in the Theory of Nonlinear Analysis and its Application
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/atnaa/issue/68849/1086232
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2303369

@@ -1,0 +1,7 @@
+Makale Başlığı: Taşınabilir Lazer Tarama Sistemleri ile Farklı Alanlarda Doğruluk Analizi
+Özet: Teknolojideki gelişmelere paralel olarak mobil lidar sistemlerinin kullanım alanları günümüzde hızla artmaktadır. Özellikle GNSS ile konum belirlemenin mümkün olmadığı kapalı alanlarda SLAM algoritmalarının sağladığı avantajlar ile haritalama çalışmaları yüksek doğrulukta hızda yapılabilmektedir. Bu çalışmada, geliştirilen bir mobil lidar sistemi ile ağaçlık alan, kapalı alan ve dış mekanda yapılan ölçmeler sonucunda söz konusu alanların üç boyutlu modelleri üretilmiş ve üretilen modellerin doğruluk analizi yapılarak, GNSS ile konumlamanın mümkün olmadığı durumlarda mobil lidar sistemlerinin doğrulukları araştırılmıştır. Yapılan testler sonucunda geliştirilen mobil lidar sistemi ile ağaçlık alanlar, kapalı alanlar ve dış mekanlarda yapılan çalışmalar için sırasıyla ±2.1 cm, ±2.4 cm ve ±3.0 cm standart sapma değerleri elde edilmiştir. Bu sonuçlara göre sistemin orman envanterinin belirlenmesi çalışmalarında, kapalı ve açık alanlarda yapılacak mimari rölöve vb çalışmalarda kullanılabileceği öngörülmektedir.
+Yazar isimleri: ['Zübeyir Bilal ÇAKMAK', 'Burak AKPINAR', 'Mahmut Oğuz SELBESOĞLU']
+Yayın Yılı: 27 Ekim 2022
+Dergi ismi: Afyon Kocatepe Üniversitesi Fen Ve Mühendislik Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/akufemubid/issue/73201/1139569
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2521567

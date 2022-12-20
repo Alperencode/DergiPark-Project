@@ -1,0 +1,7 @@
+Makale Başlığı: Analytical studies on the global existence and blow-up of solutions for a free boundary problem of two-dimensional diffusion equations of moving fractional order
+Özet: This paper particularly addresses and discusses some analytical studies on the existence and uniqueness of global or blow-up solutions under the traveling profile forms for a free boundary problem of two-dimensional diffusion equations of moving fractional order. It does so by applying the properties of Schauder's and Banach's fixed point theorems. For application purposes, some examples of explicit solutions are provided to demonstrate the usefulness of our main results.
+Yazar isimleri: ['Bilal BASTI']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Advances in the Theory of Nonlinear Analysis and its Application
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/atnaa/issue/68849/1031436
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2111315

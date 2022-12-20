@@ -1,0 +1,7 @@
+Makale Başlığı: Analysis of Digital Participation with Text Mining Method and 2017 Turkey Social Media Referendum
+Özet: Social networks have recently become a guiding factor for communities in many areas. Twitter is one of the most important platforms on the social network for setting instant agendas among these networks. Especially in the last decade, social networks have been used in political processes globally. Social networks have become important platforms for political parties to manage their propaganda and for the public to express their opinion. Based on this, a text mining study was carried out on Twitter during Turkey’s 2017 referendum process. In the study, public opinions posted on Twitter were examined to reveal the effectiveness of political processes. For this purpose, the ratios of yes/no opinions, political parties, and political party leaders were analyzed, which are the preferred options of the referendum. With these analyses, an empirical study on social-cyber intelligence was carried out, and the potential of decision support systems for policymakers was revealed.
+Yazar isimleri: ['Serkan SAVAŞ']
+Yayın Yılı: 28 Haziran 2022
+Dergi ismi: Acta Infologica
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/acin/issue/69446/1078857
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2274150

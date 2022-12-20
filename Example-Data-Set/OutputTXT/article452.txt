@@ -1,0 +1,7 @@
+Makale Başlığı: Hidrojel Esaslı Kompozit Kullanılarak Naftol Yeşili B içeren Atıksuların Arıtımında Ortam Parametrelerinin Etkisi
+Özet: Bu çalışmada, EuCl3 ile katkılanmış poli (4-vinilpridin-ko-akrilamid) {P(4-VP-ko-AAm)/EuCl3} hidrojel kompozit adsorbent olarak kullanılarak atıksulardan naftol yeşili B boyasının giderim verimliliği araştırılmıştır. Naftol yeşili B adsorpsiyon verimliliğinin pH, adsorbent madde miktarı, başlangıç naftol yeşili B boya konsantrasyonu, sıcaklık ve temas süresi gibi değişkenlere bağımlılığı kesikli sistemde incelenmiştir. En yüksek giderim verimi 30 mg/L başlangıç naftol yeşili B konsantrasyonu, 0,05 g/100 mL P(4-VP-ko-AAm)/EuCl3 dozajı, pH=5,42 ve 25 °C sıcaklıkta %98,40 olarak elde edilmiştir. Deneysel denge verileri Langmuir izoterm modeli ile daha iyi uyum sağlamıştır. Kinetik sonuçlar, adsorpsiyon prosesinin hız belirleme basamaklarından biri olarak iç difüzyon ile yalancı ikinci derece kinetiği ile tanımlanabileceğini göstermiştir.  Elde edilen deneysel sonuçlar, adsorbent olarak P(4-VP-ko-AAm)/EuCl3 hidrojeli kullanılarak naftol yeşili B boyasının başarılı bir şekilde atıksulardan giderilebileceğini göstermiştir.
+Yazar isimleri: ['Mehtap TANYOL', 'Güzin PIHTILI']
+Yayın Yılı: 27 Ekim 2022
+Dergi ismi: Afyon Kocatepe Üniversitesi Fen Ve Mühendislik Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/akufemubid/issue/73201/1142743
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2534144

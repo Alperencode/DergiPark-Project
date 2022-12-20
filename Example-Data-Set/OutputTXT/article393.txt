@@ -1,0 +1,7 @@
+Makale Başlığı: On the integration of first order nonlinear differential equations and the conditions of Fuchs' theorem
+Özet: 
+Yazar isimleri: ['Toufik LAADJ']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Advances in the Theory of Nonlinear Analysis and its Application
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/atnaa/issue/68849/1059343
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2198130

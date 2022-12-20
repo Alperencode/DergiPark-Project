@@ -1,0 +1,7 @@
+Makale Başlığı: Numerical Construction of Lyapunov Functions Using Homotopy Continuation Method
+Özet: Lyapunov functions are frequently used for investigating the stability of linear and nonlinear dynamical systems. Though there is no general method of constructing these functions, many authors use polynomials in $ p-forms $ as candidates in constructing Lyapunov functions while others restrict the construction to quadratic forms. By focussing on the positive and negative definiteness of the Lyapunov candidate and the Hessian of its derivative, and using the sum of square decomposition, we developed a method for constructing polynomial Lyapunov functions that are not necessarily in a form. The idea of Newton polytope was used to transform the problem into a system of algebraic equations that were solved using the polynomial homotopy continuation method. Our method can produce several possibilities of Lyapunov functions for a given candidate. The sample test conducted demonstrates that the method developed is promising
+Yazar isimleri: ['Alhassan IBRAHİM', 'Saminu I BALA', 'Idris AHMED', 'Muhammad Jamilu IBRAHİM', 'Fahd JARAD']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Advances in the Theory of Nonlinear Analysis and its Application
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/atnaa/issue/68849/1018208
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2060093

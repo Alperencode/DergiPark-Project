@@ -1,0 +1,7 @@
+Makale Başlığı: Generalized Shehu Transform to $\Psi$-Hilfer-Prabhakar Fractional Derivative and its Regularized Version
+Özet: 
+Yazar isimleri: ['Sachın MAGAR', 'Ahmed HAMOUD', 'Kirtiwant GHADLE']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Advances in the Theory of Nonlinear Analysis and its Application
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/atnaa/issue/68849/1032207
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2114347
