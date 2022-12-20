@@ -1,0 +1,7 @@
+Makale Başlığı: Bitonic Cebirlerin Direkt Çarpımları
+Özet: Bu çalışmanın amacı bitonic cebirlerin direkt çarpımları olup bitonic cebirlerin direkt çarpımlarının ilgili özelliklerini çalışmaktır. Ayrıca, değişmeli bitonic cebirlerinin direkt çarpımları, bitonic homomorfizmalar incelenmiş ve değişmeli bitonic cebirlerin direkt çarpımlarının da değişmeli olduğu elde edilmiş ve direkt çarpımların homomorfizmaları da çalışılmıştır.
+Yazar isimleri: ['Şule AYAR ÖZBAL']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Adıyaman Üniversitesi Fen Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/adyujsci/issue/70408/1049322
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2161411

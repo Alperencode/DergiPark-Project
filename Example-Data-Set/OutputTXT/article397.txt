@@ -1,0 +1,7 @@
+Makale Başlığı: Multiple Nonnegative  Solutions for  a Class of Fourth-Order BVPs Via a New Topological Approach
+Özet: In this paper, we study  a class of fourth-order boundary value problems with integral boundary conditions.The nonlinearity may have time-singularity and change sign. Moreover, it satisfies general polynomial growth conditions. A new topological approach is applied to prove the existence of at least two nonnegative classical solutions. An example of application illustrates the existence result.
+Yazar isimleri: ['Svetlin GEORGİEV', 'Karima MEBARKİ']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Advances in the Theory of Nonlinear Analysis and its Application
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/atnaa/issue/68849/977625
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1904382

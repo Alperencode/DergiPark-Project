@@ -1,0 +1,7 @@
+Makale Başlığı: On Two Efficient Numerical Schemes for Nonlinear Burgers’ Type Equations
+Özet: 
+Yazar isimleri: ['Bilge INAN']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Adıyaman Üniversitesi Fen Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/adyujsci/issue/70408/1041652
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2150197

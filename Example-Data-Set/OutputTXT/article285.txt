@@ -1,0 +1,7 @@
+Makale Başlığı: THE EFFECT OF USING PALMITIC ACID ON A SOLAR POND TEMPERATURE DISTRIBUTION
+Özet: Solar energy is one of the renewable energy sources and widely used to obtain thermal energy. The heat obtained from solar energy can be stored by using different systems. One of these systems is solar ponds. Solar ponds consist of layers whose salt density increases towards the bottom. In this study, the use of phase change materials to increase the heat storage performance of a model solar pond was investigated. The phase change material, Cetyl-palmitic acid eutectic mixture was prepared and its chemical properties were obtained by FT-IR spectroscopy. The thermophysical properties and surface morphologies were determined by using Differential Scanning Calorimetry and SEM. The obtained phase change material was applied to the inner surface of the heat storage zone. The temperature distribution of the solar pond was calculated numerically for with and without phase change material. As a result, it has been seen that the use of phase change materials with suitable thermophysical properties in solar ponds will contribute to long-term heat storage performance.
+Yazar isimleri: ['Haci SOGUKPİNAR', 'Zuhal GENÇ', 'İsmail BOZKURT']
+Yayın Yılı: 31 Ağustos 2022
+Dergi ismi: Adıyaman Üniversitesi Mühendislik Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/adyumbd/issue/72397/1078930
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2274441

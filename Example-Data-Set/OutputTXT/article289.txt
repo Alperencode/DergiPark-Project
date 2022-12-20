@@ -1,0 +1,7 @@
+Makale Başlığı: Şanlıurfa İli Kırsalında İçme Suyu Kaynaklarındaki Nitrat Kirlenmesinin İyon Değişimi Metodu İle Arıtılabilirliğinin Araştırılması
+Özet: Bu çalışmada Şanlıurfa İli kırsalındaki bazı yerleşim yerlerinde nitrat kirlenmesinin sebep olduğu içme suyu olarak kullanılan yer altı sularındaki nitrat seviyesi ve içme suyu olarak kullanılabilmek üzere yerinde uygulanabilecek bertaraf çözümü araştırılmıştır. Yapılan araştırmada bu içme suyu kuyularının büyük bir tarımsal arazi olan Harran Ovası içerisindeki köy yerleşim yerleri içerisinde yer aldığı ve ekseriyetle sınır değer olan 50 mg/L değerinin üzerinde nitrat konsantrasyonuna sahip olduğu tespit edilmiştir. Köy yerlerinde kullanılabilecek işletimi kolay bir çözüm üzerinde durularak en uygun seçeneğin iyon değiştirici reçine olabileceğine karar kılınmıştır. Buna göre nitrat iyonlarının giderilebildiği ticari reçine ile pilot ölçekli çalışmalar yürütülerek paket kolon tasarımı yapılmıştır. Çalışmanın yapıldığı Yığınak köyü içme suyu kuyusu için giriş suyu konsantrasyonunu 125 mg/L den 50 mg/L’ye kadar giderebilecek iyon değişitirici kolon’un 4,3 gün çalışma süresine sahip olarak iki adet 1,5 m derinliğinde ve 1 metre çapında olmasının yeterli olacağı hesaplanmıştır.
+Yazar isimleri: ['Mustafa ASOĞLU', 'Yakup CUCİ', 'Mehmet Fatih DİLEKOĞLU']
+Yayın Yılı: 31 Ağustos 2022
+Dergi ismi: Adıyaman Üniversitesi Mühendislik Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/adyumbd/issue/72397/1091520
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2324877

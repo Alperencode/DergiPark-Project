@@ -1,0 +1,7 @@
+Makale Başlığı: YENİ İZOLE EDİLMİŞ GANODERMA LUCIDUM İLE KATI HAL FERMANTASYONU KOŞULLARINDA LAKKAZ ÜRETİMİ VE BOYA RENK GİDERİMİNDE KULLANILMASI
+Özet: Yeni izole edilmiş fungus Ganoderma lucidum' un lakkaz üretim kapasitesi, katı substratlar üzerinde katı ortam fermantasyonu sırasında incelenmiştir. Buğday kepeğinin en etkili katı substrat olduğu tespit edildiğinden, buğday kepeği ortamında çeşitli kültür parametrelerinin ve bazı indükleyicilerin lakkaz üretimine etkisi araştırılmıştır., pH 5.0, 30 °C ve %75 nem içeriği ile buğday kepeği en etkili ortamdı ve 10 mM bakır ilavesi en yüksek lakkaz miktarını destekledi. Cam tava fermentörde 2973±220 U/L lakkaz aktivitesi elde edildi. Ham lakkaz 70 °C'de en yüksek aktiviteyi vermiştir. 60°C'de 6 saat stabildi ve 70°C'de 2 saat boyunca %37 aktiviteyi korudu. Ham lakkaz, 20 dakika içinde Remazol Parlak Mavi R' nin %61 rengini giderdi. Sonuçlar, bu suşun yüksek miktarda lakkaz üretebileceğini ve bakır gibi uygun indükleyicilerin lakkaz üretimini indükleyebileceğini gösterdi. Elde edilen ham lakkaz, tekstil boyası renk giderme uygulamaları için kullanılabilir.
+Yazar isimleri: ['Filiz BORAN', 'Özfer YEŞİLADA']
+Yayın Yılı: 31 Ağustos 2022
+Dergi ismi: Adıyaman Üniversitesi Mühendislik Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/adyumbd/issue/72397/1107682
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2391424

@@ -1,0 +1,7 @@
+Makale Başlığı: Carbon Nanotube (CNT) Embedded Polyacrylonitrile (PAN) Electrospun  Nanofibers Production and Characterizations
+Özet: Carbon nanotube (CNT) embedded polyacrylonitrile (PAN) nanofibers production by electrospinning method was reported in this study. Five different CNT concentrations (0.05, 0.1, 0.2, 0.5, and 1wt%) were tried to obtain beadless and regular PAN/CNT electrospun nanofibers. Scanning Electron Microscopy (SEM), Raman and X-Ray Diffaraction (XRD) analyses were utilized to characterize nanofibers. The results indicated that with increasing CNT concentration, the diameter of PAN/CNT nanofibers increased, and after an optimum concentration some disordered sites and beads were observed on the nanofibers. However, the addition of CNTs enhanced the graphitization and crystallinity of PAN nanofibers. The optimum CNT concentration for beadless and high crystalline PAN/CNT nanofibers was found as 0.1 wt
+Yazar isimleri: ['Atike İNCE YARDIMCI', 'Yaser AÇIKBAŞ']
+Yayın Yılı: 15 Haziran 2022
+Dergi ismi: Afyon Kocatepe Üniversitesi Uluslararası Mühendislik Teknolojileri ve Uygulamalı Bilimler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/akuumubd/issue/69929/1116288
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2426269

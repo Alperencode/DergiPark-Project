@@ -1,0 +1,7 @@
+Makale Başlığı: Mikro Boyutlu ZnO Parçacıklarının Optik ve Fotonik Özelliklerinin Seryum Katkılama ile İyileştirilmesi
+Özet: Artan nüfus ve çevresel nedenlerle su kıtlığı günümüzün en acil sorunlarından biridir. Bu durumu çözmek için insanlığın yapabileceği en önemli şey kirli suları geri dönüştürmektir. ZnO, benzersiz özellikleri nedeniyle fotokatalitik proses uygulamaları için yaygın olarak kullanılmaktadır. Sol-jel yöntemiyle üretilen mikron boyutlu ZnO partiküllerinin, nadir toprak elementi olan Seryum katkı maddesi katkılanarak fotokatalitik özelliklerinin iyileştirilmesi amaçlanmıştır. Ce katkı oranının etkisini incelemek için yapısal, morfolojik, optik ve fotokatalitik özellikler karakterize edildi. Artan tane boyutu, Ce4+'nın ZnO kafesine verimli bir şekilde entegre olduğunu gösterdi. Wurtzite ZnO kafesine Ce katkısı, mikro boyutlu ZnO parçacıklarının hem emisyonunu hem de fotokatalitik verimliliğini iyileştirdi. Ayrıca fotokatalitik verim üzerinde Ce doping işleminin tane boyutundan daha etkili olduğu ortaya çıkmıştır.
+Yazar isimleri: ['Ramazan DALMIŞ']
+Yayın Yılı: 27 Ekim 2022
+Dergi ismi: Afyon Kocatepe Üniversitesi Fen Ve Mühendislik Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/akufemubid/issue/73201/1122241
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2451086

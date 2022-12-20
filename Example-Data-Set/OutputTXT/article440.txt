@@ -1,0 +1,7 @@
+Makale Başlığı: Mikro Hasarlı Plakların Riesz-Caputo Kesirli Türevi ile Titreşim Analizi
+Özet: Bu çalışmada Riesz Caputo kesirli türev tanımı yardımıyla, nonlokal çekirdekler tanımlamadan, mikrogenleşme teorisi ile modellenen mikro hasarlı plakların nonlokal titreşim analizi yapılmıştır. Dört ucu ankastre-“clamped” (CCCC) mikro hasarlı plağın frekans spektrumu ve mod şekilleri kesirli türev mertebesinin   ve birim uyum katsayısının   farklı değerleri için elde edilmiştir. 3-boyutlu titreşim analizi Ritz enerji yöntemi ile gerçekleştirilmiştir. Çalışmanın bilimsel literatüre temel katkısı, kesirli türev kavramıyla modellenen nonlokal titireşim analizinin klasik teoriye göre daha uygun bir model olduğunun ve deneysel sonuçlarla daha iyi örtüştüğünün gösterilmesidir.
+Yazar isimleri: ['Soner AYDINLIK', 'Ahmet KIRIŞ']
+Yayın Yılı: 27 Ekim 2022
+Dergi ismi: Afyon Kocatepe Üniversitesi Fen Ve Mühendislik Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/akufemubid/issue/73201/1070344
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2241331

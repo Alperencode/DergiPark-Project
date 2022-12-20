@@ -1,0 +1,7 @@
+Makale Başlığı: ALGISAL BOYUT BAĞLAMINDA MÜZİK DİNLEME BİÇİMLERİ VE MODELLEMELERİ
+Özet: Dinleme eylemi üzerine çeşitli disiplinler tarafından farklı yaklaşımlarla yapılan bir çok çalışma bulunmaktadır. Dinleme biçimleri kavramını kullanarak yapılmış bir dizi kuramsal çalışma, dinleme eyleminin algısal boyutunu açıklamayı amaçlamıştır. Bu kavram dinlemeyi, işitme becerileri, algısal dikkat ve dinleme durumu gibi bağlamlarla ilişkilendirerek ele alır. Dinleme biçimleri modellemeleri sadece müziği değil, gündelik hayatta karşımıza çıkan tüm sesleri nasıl ve neden dinlediğimizi anlamlandırmaya çalışır. Her dinleyici kendine özgü işitsel algıya sahiptir ve bu algıyı etkileyen faktörler dinleme durumu, duygusal durum, aşinalık, müzik tercihi ve beğenisi, işitsel beceriler, müziksel eğitim düzeyi ve kültürel sermaye gibi değişkenleri içerir. Dolayısıyla çok sayıda değişkenden etkilenen dinleme eylemi, kavramsallaştırılması oldukça zor bir olgu olarak karşımıza çıkmaktadır. Bu derleme makale, literatürde kabul görmüş dinleme biçimleri modellerini incelemeyi amaçlamaktadır.
+Yazar isimleri: ['Alper MAT']
+Yayın Yılı: 20 Eylül 2022
+Dergi ismi: Afyon Kocatepe Üniversitesi Akademik Müzik Araştırmaları Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/amader/issue/72645/1101923
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2368060

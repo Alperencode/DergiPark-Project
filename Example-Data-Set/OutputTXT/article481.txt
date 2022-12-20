@@ -1,0 +1,7 @@
+Makale Başlığı: CT Taramalarında Hastanın Boyuna Göre Absorbe Edilen Dozun Değişimi
+Özet: Kanser tedavilerinde çekilen Bilgisayarlı Tomografi (CT) görüntüleri, tedavi portalı tasarımı ve planlamasında önemlidir. Hastanın CT taramalarında aldığı doz, tedavi planlaması doz hesaplamasında dikkate alınmaz ve kritik doz eşiğine sahip kritik organların sınır dozlarının hesaplanmasında önem kazanır. Bu çalışmada bazı kritik organlar olan kalp, karaciğer ve böbreklerin hastanın boyuna göre aldığı dozun değişimi Monte Carlo tekniği kullanılarak NCICT kodu ile araştırıldı. Sonuç olarak, dozlar hastaların boyuna göre değiştirildi.
+Yazar isimleri: ['İsmail Hakkı SARPÜN', 'Timur KOCA', 'Rahmi Atıl AKSOY', 'Aylin Fidan KORCUM']
+Yayın Yılı: 15 Haziran 2022
+Dergi ismi: Afyon Kocatepe Üniversitesi Uluslararası Mühendislik Teknolojileri ve Uygulamalı Bilimler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/akuumubd/issue/69929/985577
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1935749

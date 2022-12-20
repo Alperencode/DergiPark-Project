@@ -1,0 +1,7 @@
+Makale Başlığı: Prolines Based β-Hydroxyamide as Organocatalysts for Use in Asymmetric Michael Addition
+Özet: Applications of chiral organocatalysts in reaction types capable of forming C-C bonds, such as Michael addition, are one of the important research areas of recent years. One of the best examples of Michael addition, one of the important works of organic reaction types, is the reaction of nitroolefins with ketones in the presence of organocatalysts. In this study, L-proline-based amide derivative was synthesized with moderate yield and its structure was elucidated by various techniques. As an organocatalyst, its effect on enantiomeric excess (e.e.) was investigated in Michael addition studies and the best enantiomeric excess value was found to be 65% in carbontetra chloride (CCl4).
+Yazar isimleri: ['Selahattin BOZKURT']
+Yayın Yılı: 15 Haziran 2022
+Dergi ismi: Afyon Kocatepe Üniversitesi Uluslararası Mühendislik Teknolojileri ve Uygulamalı Bilimler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/akuumubd/issue/69929/1111800
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2408243

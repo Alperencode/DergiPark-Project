@@ -1,0 +1,7 @@
+Makale Başlığı: Mathematical Modeling and Optimization of Supply Chain for Bioethanol
+Özet: Biofuels today are a good solution in the tendentiously declining stocks of raw materials for conventional fuels. They are used by adding in a certain percentage to usable fuels for transport combustion systems. Their environmental performance is also a good feature in environmental protection. European and global scale, there is an increased use in the coming years, adopted in prescriptions and directives. One of these biofuels is bioethanol, which also finds other applications in the industry and bits. For this purpose, optimal supply chains (SC) are developed, including suitable raw materials, technologies and equipment. This can be done by developing a mathematical model describing the extremely large number of parameters and factors, as well as their limits for real application. Then it is necessary to conduct numerical experiments through multifactorial and multi-critical optimization. The development presents the mathematical model and its software implementation on the GAMS platform. Modeling and optimization has been carried out according to economic and environmental criteria, and the results obtained can be used to build optimal SC for a particular territory – region, state or country.
+Yazar isimleri: ['Yunzile DZHELİL']
+Yayın Yılı: 28 Haziran 2022
+Dergi ismi: Acta Infologica
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/acin/issue/69446/817655
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1368430

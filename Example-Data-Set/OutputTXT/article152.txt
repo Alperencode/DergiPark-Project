@@ -1,0 +1,7 @@
+Makale Başlığı: Forty Years of Management Information Systems From the Window of MIS Quarterly
+Özet: In the globalizing and digital transformation corporate ecosystem, the management information systems discipline maintains its key place. 104 journals in the area of management information systems will continue to be published in 2021, according to SCImago Journal and Country Rank statistics. MIS Quarterly is one of the most prominent field journals in the field, with a publishing history spanning more than four decades and having the highest ranking in the SCImago. The study aims to present the forty-year portfolio of the related literature with scientometrics and bibliometrics from the perspective of MIS Quarterly. By presenting the findings of the analyzes carried out in many areas such as content, institution, country, researcher, and citation of 1,550 publications between 1980 and 2020, this research offers concrete inferences about how management information systems have evolved from past to present in a period of forty years, and discusses the change that the field has undergone, together with the dynamics of the related periods.
+Yazar isimleri: ['Muhammet DAMAR', 'Güzin ÖZDAĞOĞLU']
+Yayın Yılı: 28 Haziran 2022
+Dergi ismi: Acta Infologica
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/acin/issue/69446/1079293
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2275863

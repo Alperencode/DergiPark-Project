@@ -1,0 +1,7 @@
+Makale Başlığı: Hibrit Düşey Rüzgâr Türbini Tasarım ve Analizi
+Özet: Bu çalışma kapsamında, rüzgâr gücünden faydalanarak geleneksel türbinlerden farklı olarak tasarımının ve analizlerinin yapıldığı hibrit düşey rüzgâr türbinlerinin karşılaştırılması gerçekleştirilmiştir. Bunun için araştırmalar sonucunda üç farklı kanat tipinde tasarım ortaya koyulmuş ve analiz işlemi gerçekleştirilmiştir. İncelenen türbin tasarımlarının içerisinden en yüksek verimi sağlayan kanat profilleri ile tasarımlar gerçekleştirilmiştir. Yapılan bu tasarımlar simülasyon ortamında test edilmiş ve sonuçları sunulmuştur.
+Yazar isimleri: ['Barış AKBUDAK', 'Rasim DOĞAN']
+Yayın Yılı: 27 Ekim 2022
+Dergi ismi: Afyon Kocatepe Üniversitesi Fen Ve Mühendislik Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/akufemubid/issue/73201/1020732
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2070086

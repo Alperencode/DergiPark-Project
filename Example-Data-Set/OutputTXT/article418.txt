@@ -1,0 +1,7 @@
+Makale Başlığı: Yüksek Binaların Tahliye Etkinliğinin İncelenmesi: Gaziantep Ek Adliye Binası Örneği
+Özet: Binaların tahliye analizinde en gerçekçi metot tahliye tatbikatlarıdır. Fakat bu metot özellikle yüksek kullanıcı yüküne sahip binalarda bazı fiziki riskler taşımaktadır. Gelişen teknolojiyle birlikte bilgisayar tabanlı benzetim çalışmaları, birçok alanda olduğu gibi tahliye analizlerinde de geniş yer almaya başlamıştır. Bu makalede, ön tanımlı metotla test edilmiş ve onaylanmış olan ve Türkiye İmar Yönetmeliğine göre yüksek yapı sınıfında bulunan Gaziantep Ek Adliye Binasının tahliye etkinliği incelenmiştir. Benzetim modelleri oluşturulurken kullanılan metotlardan ön tanımlı ve performans tabanlı metotları inceleyen bu çalışmada, Gaziantep Ek Adliye Binası, performans tabanlı modele göre ve uluslararası tanımlara göre, Pathfinder benzetim programıyla test edilmiştir. Elde edilen sonuçlara göre binanın, National Fire Protection Association tarafından belirlenen kullanıcı yüküne göre 45 dk 35 sn’de, yazarlar tarafından binanın normal bir gündeki normal yüküne yönelik oluşturulan tahmini kullanıcı yüküne göre ise 18 dk 50 sn’de tahliye edildiği görülmüştür. Ayrıca yüksek binaların tasarımında etkin tahliyeye izin verecek tasarım detaylarından bahsedilmiştir.
+Yazar isimleri: ['Abdurrahman Yağmur TOPRAKLI', 'Muhsin Selçuk SATIR']
+Yayın Yılı: 31 Ekim 2022
+Dergi ismi: Afet ve Risk Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/afet/issue/73264/1083155
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2291253

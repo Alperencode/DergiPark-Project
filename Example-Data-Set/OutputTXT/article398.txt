@@ -1,0 +1,7 @@
+Makale Başlığı: Stability of a nonlinear fractional pseudo-parabolic equation system regarding fractional order of the time
+Özet: 
+Yazar isimleri: ['Nguyen Duc PHUONG', 'Le Dinh LONG', 'Tuan NGUYEN ANH', 'Ho BİNH']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Advances in the Theory of Nonlinear Analysis and its Application
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/atnaa/issue/68849/961417
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1856697

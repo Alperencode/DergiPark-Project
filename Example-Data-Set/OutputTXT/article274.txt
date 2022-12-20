@@ -1,0 +1,7 @@
+Makale Başlığı: Yansımalı Banach Uzaylarda Operatörlerin Çarpımsal İnjektiv ve Surjektiv s-Sayıları ile Yeni Weyl-Tipi Eşitsizlikleri
+Özet: Bu çalışmada iki problem incelenmiştir. Genel olarak, kompleks yansımalı Banach uzaylarında operatörlerin Weyl-tipi eşitsizlikleri üzerinde durulmuştur. İlk olarak, birbirinin duali olan keyfi çarpımsal surjektif ve injektif 𝑠-sayılarını kullanarak Weyl-tipi eşitsizlikler elde edilmiştir. İkinci olarak, kompleks yansımalı Banach uzayındaki 𝑆 ve 𝑆$ operatörleri için belirli koşullar altında çarpımsal injektif ve surjektif 𝑠-sayıları ile Weyl-tipi eşitsizlikler ifade edilmiştir. Böylece hem dual 𝑠-sayı dizileri hem de dual operatörler için yeni Weyl-tipi eşitsizlikleri araştırılmıştır.
+Yazar isimleri: ['Lale CONA']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Adıyaman Üniversitesi Fen Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/adyujsci/issue/70408/1001762
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1998560

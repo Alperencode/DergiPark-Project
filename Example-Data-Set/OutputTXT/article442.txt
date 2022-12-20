@@ -1,0 +1,7 @@
+Makale Başlığı: Yeniden Örnekleme Metotlarının Kredi Kartı Sahtecilik Tespiti için Topluluk Öğrenmesine Kapsamlı Analizi
+Özet: Kredi kartı aracılığıyla hızlı ve kolay satın alma işlemleri sahtecilik işlemlerinin artmasına neden olmuştur. Son yıllarda makine öğrenmesi yöntemlerinin kullanımı sahtecilik tespiti işlemlerinde önemli bir pay oluşturmuştur. Sahtecilik tespiti işlemlerinde karşılaşılan yaygın problemlerden birisi veri kümelerinin dengesiz olmasıdır. Dengesizlik problemi için kullanılan yeniden örnekleme metotları kullanıldıkları aşamalar bakımından çalışmadan çalışmaya farklılık gösterebilmektedir. Bu çalışma başlıca topluluk öğrenmesi yöntemleri olmak üzere çeşitli makine öğrenmesi yöntemlerini kullanarak yeniden örnekleme metotlarının kullanıldıkları aşamalara göre yarattığı etkileri karşılaştırmaktadır. Karşılaştırma sonucunda, çapraz doğrulama metodu aracılığıyla yeniden örnekleme metotlarının eğitim ve test veri kümelerine ayrı ayrı yapılmasının en doğru sonucu verdiği gösterilmiştir. Bununla birlikte bu çalışmada kullanılan XGB, LGBM, RF, FNN ve diğer metotların metrik değerlerine dayanan bir başka kıyaslamada ise XGB ve FNN metotları %99 duyarlılık, kesinlik ve doğruluk ile en yüksek değerlere ulaşmışlardır.
+Yazar isimleri: ['Ali Kemal AY', 'Esra YOLAÇAN']
+Yayın Yılı: 27 Ekim 2022
+Dergi ismi: Afyon Kocatepe Üniversitesi Fen Ve Mühendislik Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/akufemubid/issue/73201/1066453
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2225923

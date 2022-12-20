@@ -1,0 +1,7 @@
+Makale Başlığı: Enzimatik Deasetilasyon ile Üretilen Su Çözülebilir Kitosan Bileşiklerinin Antibakteriyel Aktivitesi ve Karakterizasyonu
+Özet: Bu araştırmada, Bacillus sp. (B. cereus (BC) ve B. thuringiensis (BT)) suşları ile kitinin enzimatik deasetilasyonundan suda çözülebilir kitosan üretiminin incelenmesi amaçlanmıştır. Kitosan örneklerinin moleküler ağırlıkları, deasetilasyon dereceleri ve antibakteriyel aktivitelerini içeren karakteristik özellikleri tanımlanmıştır. 393 (BC) ve 213 (BT) ppm miktarda elde edilen kitosan örneklerinin deasetilasyon derecesi IR spektrumu ile sırasıyla %80,54 ve %86,07 olarak belirlenmiştir. Deasetilasyon derecesinin yanı sıra antibakteriyel aktivitede önemli bir etki gösteren moleküler ağırlık değerleri ise 48,27 ve 48,46 Da’dır. Her iki kitosan bileşikleri için, test bakterileri arasında en yüksek inhibitör etki P. aeruginosa ve S. epidermis’e karşı kaydedilmiştir. Bunun yanı sıra S. aureus, Vankomisin dirençli Enterococci, S. epidermidis, Klebsiella sp. ve Salmonella spp’ye karşı hiçbir antibakteriyel etki gözlenmemiştir. Bizim sonuçlarımız, antibakteriyel aktivite gösteren kitosan polimerlerin üretimi için basit ve düşük maliyetli bir yönteme işaret etmektedir.
+Yazar isimleri: ['Fatih MATYAR', 'Hatice Aysun MERCİMEK TAKCI', 'Fatma YILMAZ', 'Gulcihan GUZELDAG', 'Halil İbrahim ÇELİK']
+Yayın Yılı: 1 Aralık 2022
+Dergi ismi: Acta Aquatica Turcica
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/actaquatr/issue/73643/1074431
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2256897

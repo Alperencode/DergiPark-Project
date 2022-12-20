@@ -1,0 +1,7 @@
+Makale Başlığı: ULUSLARARASI ALAN İNDEKSLERİNDE GÖÇ YAZININA İLİŞKİN BİBLİYOMETRİK BİR ANALİZ
+Özet: Bu çalışmanın konusu immigration (göç) kelimesinin bibliyometrik analizinin gerçekleştirilmesidir. Çalışmanın amacı; göç kelimesinin yer aldığı yayınların incelenmesidir. Çalışma kapsamında nitel araştırma yöntemlerinden bibliyometrik analiz kullanılmıştır. 1975-2020 yılları arasında Web Of Science veri tabanında göç kelimesinin taranması yoluyla ulaşılan 50.880 çalışmanın analizi yapılmıştır. Çalışmada göç kelimesine ilişkin değerlendirilen başlıca kriterler; araştırma alanı, yıllar, doküman türleri, kurum/kuruluşlar, yazarlar, ülkeler ve yabancı dillerden oluşmaktadır. Verilerin gösteriminde tablo ve şekillerin yanı sıra kelime bulutu gösterimine yer verilmiş ve kelime bulutu analizinde Orange programından yararlanılmıştır.
+Yazar isimleri: ['Neslihan ARSLAN']
+Yayın Yılı: 30 Ağustos 2022
+Dergi ismi: Adıyaman Üniversitesi Sosyal Bilimler Enstitüsü Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/adyusbd/issue/72352/934034
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1755933

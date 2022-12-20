@@ -1,0 +1,7 @@
+Makale Başlığı: KONVOLÜSYONEL SİNİR AĞI KULLANILARAK SITMA HASTALIĞI SINIFLANDIRILMASI
+Özet: Sıtma, sivrisinek ısırması sonucu oluşan bir hastalıktır. Sıtma hastalığını algılama, tanıma ve sınıflandırma gibi işlemler, Plasmodium parazitli hücrelerin mikroskobik olarak incelenmesine dayanmaktadır. Sıtma paraziti ile enfekte olmuş hücrelerin bilgisayar destekli olarak tanımlanması zorlu bir iştir. Bu zorlu işlemi kolaylaştırabilmek için son zamanlarda popüler hale gelen derin öğrenme yöntemleri ile kırmızı kan hücrelerinde sıtma parazitinin olup olmadığı tespit edilmeye çalışıldı. Bu hastalığın tanısını koyabilmek için gerçekleştirilen sınıflandırmada iki ayrı Konvolüsyonel Sinir Ağı (CNN) modeli geliştirilmiştir. Birinci modelde giriş katmanı olarak önceden eğitilmiş ResNet50V2 mimarisini temel alan derin öğrenme modeli verilmiştir. İkinci modelde ise 23 ağırlıklı katmandan oluşan yeni bir derin öğrenme modeli tasarlanmıştır. Önerilen modelleri eğitebilmek için toplam 27.558 ince kan hücresi görüntüsü kullanıldı. Önerilen modeller ile sıtma hastalığının sınıflandırılmasında %97.53 oranında doğruluk değerine ulaşılmıştır.
+Yazar isimleri: ['İbrahim ÇETİNER']
+Yayın Yılı: 31 Ağustos 2022
+Dergi ismi: Adıyaman Üniversitesi Mühendislik Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/adyumbd/issue/72397/1033135
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2117771

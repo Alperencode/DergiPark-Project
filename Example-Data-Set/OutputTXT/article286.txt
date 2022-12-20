@@ -1,0 +1,7 @@
+Makale Başlığı: AN IMPROVED ARTIFICIAL ATOM ALGORITHM WITH THE OPERATOR OF SHUFFLED FROG LEAPING ALGORITHM
+Özet: Artificial Atom Algorithm is an optimization technique that developed inspired by nature. This algorithm used for both continues problems and discrete problems in previous studies. In this study, an arrangement that would increase the success of this algorithm was envisaged. For this purpose, the ionic bond function of Artificial Atom Algorithm has been improved benefiting an algorithmic step of Shuffled Frog Leaping Algorithm. As a result of the updates, the search space was narrowed for the ionic bond operator. Thus, the state of getting away from the solution in each iteration was prevented. The success of Improved Artificial Atom Algorithm was tested with benchmark functions. Experimental results for the proposed method were interpreted comparatively.
+Yazar isimleri: ['Ayşe ERDOĞAN YILDIRIM']
+Yayın Yılı: 31 Ağustos 2022
+Dergi ismi: Adıyaman Üniversitesi Mühendislik Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/adyumbd/issue/72397/1080995
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2282461

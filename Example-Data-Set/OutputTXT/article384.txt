@@ -1,0 +1,7 @@
+Makale Başlığı: A Preliminary Field Work on Digital Heritage and the Use of Virtual Reality for Cultural Heritage Management
+Özet: This paper presents the results of a multidisciplinary research project carried on during the Covid-19 Pandemic and supported by TÜBİTAK (The Scientific and Technological Research Council of Turkey). The results are gathered from six months of field and office work, as the project was limited with this period. The archaeological site of Letoon in Muğla/Turkey has been chosen as the test area, specifically the triple temples of Leto, Apollo, and Artemis. Photogrammetric reconstruction of the current situation, as well as archaeologically accurate 3D models, have been created and converted into interactive immersive VR content to measure consumer behaviour and experience. These two different types of 3D content are integrated into the VR environment both separately and as a single content with switching from one to the other. After the creation process, the content was experienced by the visitors with different demographic characteristics and a survey was conducted to measure this experience.
+Yazar isimleri: ['M. Hamdi KAN', 'Hava KESKİN', 'Nusret DEMİR', 'Serdar SELİM', 'Erdoğan ASLAN']
+Yayın Yılı: 6 Aralık 2022
+Dergi ismi: Advances in Hospitality and Tourism Research (AHTR)
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ahtr/issue/73732/1054259
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2178367

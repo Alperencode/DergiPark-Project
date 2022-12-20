@@ -1,0 +1,7 @@
+Makale Başlığı: D-8 Ülkelerinde Ekonomik Büyümenin İşsizlik Üzerindeki Etkisi: Panel Eşbütünleşme Analizi
+Özet: Ekonomik büyüme ve işsizlik kavramları, tüm ülkeler için iktisat politikalarının seçilmesi ve uygulanması bağlamında temel değişkenler arasında gelmektedir. Ekonomi literatüründe işsizlik ile büyüme arasındaki ilişki Okun kanunu olarak bilinmektedir. Teorik olarak ekonomik büyümenin istihdam artışı sağlaması beklenmektedir. Ancak, uygulamada bu durum her zaman geçerli olmamaktadır. D-8 ülkelerinin önemli bir kısmı için yüksek işsizlik oranları halen önemli bir sorun olarak göze çarpmaktadır. Bu araştırmada, 1991-2018 dönemi arasında D-8 ülkeleri açısından ekonomik büyümenin işsizlik oranı üzerindeki etkisi panel eş bütünleşme analizi ile incelenmiştir. Ulaşılan sonuçlar, D-8 ülkelerinde ekonomik büyümenin işsizliği azalttığını, Okun kanunun geçerli olduğunu göstermektedir. Bulgular ilgili literatürde daha önce yapılan çalışmaları desteklemektedir. Ulaşılan bulgular, ülkelerin işsizliği düşürebilmeleri için istikrarlı ve sürdürülebilir şekilde iktisadi büyüme oranlarını arttırmaya yönelik politikalar uygulamaları gerektiğini göstermektedir.
+Yazar isimleri: ['Burak UĞUR', 'Esra KÜTÜKÇÜ']
+Yayın Yılı: 29 Haziran 2022
+Dergi ismi: Ahi Evran Üniversitesi İktisadi ve İdari Bilimler Fakültesi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/aeuiibfd/issue/70693/1039720
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2144780
