@@ -1,7 +1,7 @@
 from bs4 import BeautifulSoup
 import requests,os,json
 
-data_list, link_list, magazine_links = [], [], []
+data_list, link_list, journal_links = [], [], []
 parsed_counter, error_counter, loading_counter, request_counter, txt_counter, session_counter = 0, 0, 0, 0, 0, 1
 MAX_REQUEST = 100
 
@@ -12,7 +12,6 @@ def SendRequest(url):
     Sends a request to the given url
     """
     global request_counter, error_counter
-    request_counter += 1
 
     if request_counter > MAX_REQUEST:
         ChangeSession()
@@ -20,6 +19,7 @@ def SendRequest(url):
 
     try:
         url = session.get(url)
+        request_counter += 1
     except Exception as e:
         error_counter += 1
         return
@@ -66,18 +66,18 @@ def GetPages(page_number):
     url = f"https://dergipark.org.tr/tr/search/{page_number}?q=&section=journal"
     link_list.append(url)
 
-def GetMagazineLinks(url_str):
+def GetJournalLinks(url_str):
     """
-    Gathering each magazine link from each page
+    Gathering each journal link from each page
     """
-    LoadingAnimation(f"Gathering magazines [Approximately {last_page*24}]")
+    LoadingAnimation(f"Gathering journals [Approximately {last_page*24}]")
     url = SendRequest(url_str)
 
     soup = BeautifulSoup(url.content,"lxml")
 
-    magazines = soup.find_all("h5",class_="card-title")
-    for link in magazines:
-        magazine_links.append(link.a.get('href'))
+    journals = soup.find_all("h5",class_="card-title")
+    for link in journals:
+        journal_links.append(link.a.get('href'))
 
 
 def ParseArticle(articleLink):
@@ -88,7 +88,6 @@ def ParseArticle(articleLink):
     
     url = SendRequest(articleLink)
     if url == None:
-        error_counter += 1
         return
     soup = BeautifulSoup(url.content,"lxml")
 
@@ -139,9 +138,9 @@ def ParseArticle(articleLink):
         if tr_tag.th.text.strip() == "Yayımlanma Tarihi":
             data_dict['Yayın Yılı'] = tr_tag.td.text.strip()
 
-    # 6) Dergi İsmi (Magazine Name)
-    magazine_name = soup.find("h1",attrs={"id":"journal-title"}).text.strip()
-    data_dict['Dergi İsmi'] = magazine_name
+    # 6) Dergi İsmi (Journal Name)
+    journal_name = soup.find("h1",attrs={"id":"journal-title"}).text.strip()
+    data_dict['Dergi İsmi'] = journal_name
 
     # 7) Yayın Sayfa URL (Article Page URL)
     data_dict['Yayın Sayfa URL'] = articleLink
@@ -160,15 +159,14 @@ def ParseArticle(articleLink):
     LoadingAnimation(f"Parsed Articles: {parsed_counter}, Errors: {error_counter} [Session count: {session_counter}]")
 
 
-def ParseMagazine(magazineLink):
+def ParseJournal(journal_link):
     """
-    Parsing the magazine link to get each article
+    Parsing the journal link to get each article
     """
     global error_counter
-    url = SendRequest(magazineLink)
+    url = SendRequest(journal_link)
 
     if url == None:
-        error_counter += 1
         return
 
     soup = BeautifulSoup(url.content,"lxml")

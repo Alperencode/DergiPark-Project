@@ -1,15 +1,15 @@
 """
 - DergiPark's information
     - DergiPark has 100+ pages
-    - Each page has 24 Magazine
-    - Each Magazine has average 10 Articles
+    - Each page has 24 Journal
+    - Each Journal has average 10 Articles
     - Total Articles: 24000+
 
 - Roadmap of the project
     - Get the current last page number
     - Create a link for each page
-    - Get the magazine links from each page
-    - Get the article links from each magazine
+    - Get the journal links from each page
+    - Get the article links from each journal
     - Parse the data from each article
 
 @Author: Alperen Ağa
@@ -30,19 +30,21 @@ MakeDir("OutputJSONL")
 for page_number in range(1, last_page+1):
     GetPages(page_number)
 
-# Gathering magazine links from each page
+# Gathering journal links from each page
 for url in link_list:
-    GetMagazineLinks(url)
+    GetJournalLinks(url)
 
-print("\nAll magazines links gathered")
+print("\nAll journal links gathered")
 print("\nStarting parsing the data")
 
-# Parsing each magazine and each article in these magazines
-for magazine_link in magazine_links:
-    ParseMagazine(magazine_link)
+# Parsing each journal and each article in these journals
+for journal_link in journal_links:
+    ParseJournal(journal_link)
 
+# Outputting the data
 OutputToJSONLFile()
 OutputToTXTFile()
 
+# Printing stats
 finish_time = datetime.datetime.now() - start_time
 Stats(finish_time)    
