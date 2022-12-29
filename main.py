@@ -35,7 +35,7 @@ for url in link_list:
     GetJournalLinks(url)
 
 print("\nAll journal links gathered")
-print("\nStarting parsing the data")
+print("\nParsing journals")
 
 # Parsing each journal and each article in these journals
 for journal_link in journal_links:
