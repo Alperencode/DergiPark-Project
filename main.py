@@ -14,7 +14,7 @@
 
 @Author: Alperen Ağa
 @Date: 02.04.2022 (dd.mm.yyyy)
-@Last Update: 19.12.2022 (dd.mm.yyyy)
+@Last Update: 30.12.2022 (dd.mm.yyyy)
 """
 
 from src import *
@@ -26,13 +26,12 @@ start_time = datetime.datetime.now()
 MakeDir("OutputTXT")
 MakeDir("OutputJSONL")
 
-# Parsing pages and creating page links
-for page_number in range(1, last_page+1):
-    GetPages(page_number)
+# Getting the last page number
+last_page = GetLastPage()
 
 # Gathering journal links from each page
-for url in link_list:
-    GetJournalLinks(url)
+for page_number in range(1, last_page+1):
+    GetJournalLinks(f"https://dergipark.org.tr/tr/search/{page_number}?q=&section=journal")
 
 print("\nAll journal links gathered")
 print("\nParsing journals")

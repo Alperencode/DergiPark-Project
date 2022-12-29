@@ -1,7 +1,7 @@
 from bs4 import BeautifulSoup
 import requests,os,json
 
-data_list, link_list, journal_links = [], [], []
+data_list, journal_links = [], []
 parsed_counter, error_counter, loading_counter, request_counter, txt_counter, session_counter = 0, 0, 0, 0, 0, 1
 MAX_REQUEST = 100
 
@@ -37,7 +37,7 @@ def ChangeSession():
 
 def GetLastPage():
     """
-    Gets the last page number
+    Gets the max page number from the first page of DergiPark
     """
     url = SendRequest("https://dergipark.org.tr/tr/search?q=&section=journal")
     soup = BeautifulSoup(url.content,"lxml")
@@ -48,8 +48,6 @@ def GetLastPage():
 
     return last_page
 
-last_page = GetLastPage()
-
 def LoadingAnimation(text):
     """
     Creates Loading Animation with argument string
@@ -59,18 +57,11 @@ def LoadingAnimation(text):
     loading_counter += 1
     print(f"{text} {animation[loading_counter % len(animation)]}", end="\r")
 
-def GetPages(page_number):
-    """
-    Generates links for all pages
-    """
-    url = f"https://dergipark.org.tr/tr/search/{page_number}?q=&section=journal"
-    link_list.append(url)
-
 def GetJournalLinks(url_str):
     """
     Gathering each journal link from each page
     """
-    LoadingAnimation(f"Gathering journals [Approximately {last_page*24}]")
+    LoadingAnimation("Gathering journals")
     url = SendRequest(url_str)
 
     soup = BeautifulSoup(url.content,"lxml")
@@ -78,7 +69,6 @@ def GetJournalLinks(url_str):
     journals = soup.find_all("h5",class_="card-title")
     for link in journals:
         journal_links.append(link.a.get('href'))
-
 
 def ParseArticle(articleLink):
     """
@@ -158,7 +148,6 @@ def ParseArticle(articleLink):
     parsed_counter += 1
     LoadingAnimation(f"Parsed Articles: {parsed_counter}, Errors: {error_counter} [Session count: {session_counter}]")
 
-
 def ParseJournal(journal_link):
     """
     Parsing the journal link to get each article
@@ -200,7 +189,6 @@ def AddControl(label):
     # Example usage:
     # if AddControl('Covid'):
     #     ParseArticle(f"https:{label.get('href')}")
-
 
 def MakeDir(dir_name):
     """
