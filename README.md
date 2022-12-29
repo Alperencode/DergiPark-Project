@@ -59,7 +59,7 @@ python main.py
 
 Example of proper working
 
-<img src="img/Project-Video.gif">
+<img src="img/Major-Update-Project-Video.gif">
 
 <br>
 
