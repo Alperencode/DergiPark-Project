@@ -26,8 +26,17 @@ Except for these I used 'json', 'os' and 'time' for outputting the data and wait
 
 <br>
 
-
 ## Installation
+
+### Download 
+<hr>
+
+Download the project as an executable file from [Releases](https://github.com/Alperencode/DergiPark-Project/releases) and run the `DergiPark.exe` file.
+
+<br>
+
+### Clone
+<hr>
 
 Clone the project
 
