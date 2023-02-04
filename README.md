@@ -1,6 +1,8 @@
-# DergiPark Project
+<h1 align=center> DergiPark Project </h1>
 
-## Description
+<p align=center> <img src="img/Major-Update-Project-Video.gif" width=650> </p>
+
+<h2> Description </h2>
 
 [DergiPark](https://dergipark.org.tr/tr/) is one of the biggest websites that provides electronic hosting for academic peer-reviewed articles in Turkey.
 In this project, I extracted all articles from DergiPark and parsed the data in 8 main headings.
@@ -17,7 +19,7 @@ Because the data is academic peer-reviewed articles this data can be used in any
 
 <br>
 
-## Used Techs
+<h2> Used Techs </h2>
 
 I used Python as a main programming language.
 
@@ -26,16 +28,16 @@ Except for these I used 'json', 'os' and 'time' for outputting the data and wait
 
 <br>
 
-## Installation
+<h2> Installation </h2>
 
-### Download 
+<h3> 1) Download </h3>
 <hr>
 
 Download the project as an executable file from [Releases](https://github.com/Alperencode/DergiPark-Project/releases) and run the `DergiPark.exe` file.
 
 <br>
 
-### Clone
+<h3> 2) Clone </h3>
 <hr>
 
 Clone the project
@@ -56,9 +58,15 @@ Install the required modules
 pip install -r requirements.txt
 ```
 
+Run the python file
+
+```bash
+python main.py
+```
+
 <br>
 
-## Usage/Examples
+<h2> Usage/Examples </h2>
 
 Run main.py in root directory 
 
@@ -73,7 +81,7 @@ Example of proper working
 <br>
 
 
-## Screenshots
+<h2> Screenshots </h2>
 
 Screenshot from JSON line data
 
@@ -87,16 +95,16 @@ Screenshot from txt data
 
 <br>
 
-## Related
+<h2> Related </h2>
 
 - [BeautifulSoup](https://github.com/Alperencode/BeautifulSoup): My other Web Scraping projects
 
 - [Python](https://github.com/Alperencode/Python): My main Python repository
 
-- [Algorithm-Solutions](https://github.com/Alperencode/Algorithm-Solutions): My LeetCode and CodeWars algorithm solutions with python
+- [Algorithm-Solutions](https://github.com/Alperencode/Algorithm-Solutions): My algorithm problem solutions with python (Leetcode, HackerRank, CodeWars)
 
 <br>
 
-## Authors
+<h2> Authors </h2>
 
 - [Alperen Aga](https://www.github.com/Alperencode)
