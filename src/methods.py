@@ -2,9 +2,8 @@ from bs4 import BeautifulSoup
 import requests
 import json
 
-session_count = 1
-parsed_count, error_count, = 0, 0, 0
-loading_count, request_count, txt_count = 0, 0, 0
+parsed_count, error_count, loading_count = 0, 0, 0
+request_count, txt_count, session_count = 0, 0, 1
 data_list, journal_links = [], []
 
 MAX_REQUEST = 100
@@ -128,7 +127,7 @@ def ParseArticle(articleLink):
         author_names = article_authors.find_all("a", class_="is-user")
         for name in author_names:
             names.append(name.text.strip())
-        data_dict['Yazar İsimleri'] = names
+        data_dict['Yazar İsimleri'] = ', '.join(name for name in names)
     except Exception:
         author_name = article_authors.find("a").text.strip()
         data_dict['Yazar İsimleri'] = author_name
