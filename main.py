@@ -17,33 +17,34 @@
 @Last Update: 30.12.2022 (dd.mm.yyyy)
 """
 
-from src import *
+from src import methods
+import datetime
 
 # Starting timer
 start_time = datetime.datetime.now()
 
 # Creating output directories
-MakeDir("OutputTXT")
-MakeDir("OutputJSONL")
+methods.MakeDir("OutputTXT")
+methods.MakeDir("OutputJSONL")
 
 # Getting the last page number
-last_page = GetLastPage()
+last_page = methods.GetLastPage()
 
 # Gathering journal links from each page
 for page_number in range(1, last_page+1):
-    GetJournalLinks(f"https://dergipark.org.tr/tr/search/{page_number}?q=&section=journal")
+    methods.GetJournalLinks(f"https://dergipark.org.tr/tr/search/{page_number}?q=&section=journal")
 
 print("\nAll journal links gathered")
 print("\nParsing journals")
 
 # Parsing each journal and each article in these journals
-for journal_link in journal_links:
-    ParseJournal(journal_link)
+for journal_link in methods.journal_links:
+    methods.ParseJournal(journal_link)
 
 # Outputting the data
-OutputToJSONLFile()
-OutputToTXTFile()
+methods.OutputToJSONLFile()
+methods.OutputToTXTFile()
 
 # Printing stats
 finish_time = datetime.datetime.now() - start_time
-Stats(finish_time)    
+methods.Stats(finish_time)
