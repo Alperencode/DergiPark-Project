@@ -1,0 +1,3 @@
+[submodule "DergiPark-Data-Set"]
+	path = DergiPark-Data-Set
+	url = https://github.com/alperencode/DergiPark-Data-Set
