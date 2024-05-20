@@ -97,7 +97,8 @@ def ParseArticle(articleLink):
     if len(article_title) < 1:
         article_title = soup.findAll("h3", class_="article-title")[1]
         article_title = article_title.text.strip()
-    data_dict['Makale Başlığı'] = article_title.replace("\n", "").replace("  ", "").replace("\t", "")
+    data_dict['Makale Başlığı'] = article_title.replace(
+        "\n", "").replace("  ", "").replace("\t", "")
 
     # 2) Özet
     ozet_section = soup.find("div", class_="article-abstract data-section")
@@ -148,7 +149,7 @@ def ParseArticle(articleLink):
     data_dict['Yayın Sayfa URL'] = articleLink
 
     # 8) Yayın PDF (Article PDF)
-    tool_bar = soup.find("div", attrs={"id":"article-toolbar"})
+    tool_bar = soup.find("div", attrs={"id": "article-toolbar"})
     a_tags = tool_bar.find_all("a")
     short_link = a_tags[0].get("href")
     pdf_link = f"https://dergipark.org.tr{short_link}"
@@ -158,7 +159,9 @@ def ParseArticle(articleLink):
     data_list.append(data_dict)
 
     parsed_count += 1
-    LoadingAnimation(f"Parsed Articles: {parsed_count}, Errors: {error_count} [Session count: {session_count}]")
+    LoadingAnimation(f"Parsed Articles: {parsed_count}, Errors: {
+                     error_count} [Session count: {session_count}]"
+                     )
 
 
 def ParseJournal(journal_link):
@@ -238,10 +241,11 @@ def OutputToTXTFile():
     for counter in range(0, parsed_count):
         with open(f"OutputTXT/articles_{counter+1}.txt", "w", encoding='utf-8') as file:
             for key, value in data_list[counter].items():
-                if type(value) == list:
+                if type(value) is list:
                     file.write(f"{key}: ")
                     for item in value:
-                        file.write(f"{item}, ") if item != value[-1] else file.write(f"{item}")
+                        file.write(
+                            f"{item}, ") if item != value[-1] else file.write(f"{item}")
                 file.write(f"{key}: {value}\n")
 
 

@@ -32,7 +32,8 @@ last_page = methods.GetLastPage()
 
 # Gathering journal links from each page
 for page_number in range(1, last_page+1):
-    methods.GetJournalLinks(f"https://dergipark.org.tr/tr/search/{page_number}?q=&section=journal")
+    methods.GetJournalLinks(
+        f"https://dergipark.org.tr/tr/search/{page_number}?q=&section=journal")
 
 print("\nAll journal links gathered")
 print("\nParsing journals")
