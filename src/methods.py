@@ -159,9 +159,7 @@ def ParseArticle(articleLink):
     data_list.append(data_dict)
 
     parsed_count += 1
-    LoadingAnimation(f"Parsed Articles: {parsed_count}, Errors: {
-                     error_count} [Session count: {session_count}]"
-                     )
+    LoadingAnimation(f"Parsed Articles: {parsed_count}, Errors: {error_count} [Session count: {session_count}]")
 
 
 def ParseJournal(journal_link):
