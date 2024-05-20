@@ -14,14 +14,14 @@
 
 @Author: Alperen Ağa
 @Date: 02.04.2022 (dd.mm.yyyy)
-@Last Update: 30.12.2022 (dd.mm.yyyy)
+@Last Update: 20.05.2024 (dd.mm.yyyy)
 """
 
 from src import methods
-import datetime
+from datetime import datetime
 
 # Starting timer
-start_time = datetime.datetime.now()
+start_time = datetime.now()
 
 # Creating output directories
 methods.MakeDir("OutputTXT")
@@ -47,5 +47,5 @@ methods.OutputToJSONLFile()
 methods.OutputToTXTFile()
 
 # Printing stats
-finish_time = datetime.datetime.now() - start_time
+finish_time = datetime.now() - start_time
 methods.Stats(finish_time)

@@ -117,7 +117,8 @@ def ParseArticle(articleLink):
                 konu_list = []
                 for konu in tr_tag.td.text.strip().split(","):
                     konu_list.append(konu.strip())
-                data_dict['Konular'] = konu_list
+                data_dict['Konular'] = ', '.join(konu for konu in konu_list)
+                data_dict['Konular'] = data_dict['Konular'].replace("(Diğer)", "")
     except Exception:
         data_dict['Konular'] = ''
 
